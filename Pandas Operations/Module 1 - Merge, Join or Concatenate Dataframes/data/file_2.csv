@@ -1,0 +1,2335 @@
+filename,a,b,c,d,e
+401a,23,F,1.7272,122.4699399,41.05293826
+403a,19,M,1.8034,112.9445001,34.72809468
+403b,19,M,1.8034,93.89362059,28.87034378
+404b,32,M,1.7272,93.44002822,31.32187141
+405b,23,F,1.7272,93.44002822,31.32187141
+407a,29,F,1.6002,98.88313666,38.61657051
+407b,29,F,1.6002,92.98643585,36.3137475
+408a,20,M,1.778,111.1301307,35.153479
+408b,20,M,1.778,92.98643585,29.41413547
+410a,33,M,1.6764,106.594207,37.92960314
+410b,33,M,1.6764,92.98643585,33.08752613
+411b,27,F,1.6764,92.98643585,33.08752613
+412a,22,F,1.7272,127.0058636,42.57341745
+413a,22,M,1.8796,117.9340162,33.38168201
+413b,22,M,1.8796,92.98643585,26.32017236
+415b,25,F,1.6764,92.98643585,33.08752613
+417a,33,M,1.9304,116.5732391,31.28270117
+417b,33,M,1.9304,92.98643585,24.95312739
+418b,25,F,1.6764,92.98643585,33.08752613
+419a,25,M,1.9558,120.2019781,31.42409153
+419b,25,M,1.9558,92.98643585,24.30920287
+420b,20,M,1.905,92.98643585,25.62298024
+421a,26,M,1.8034,132.448972,40.72531585
+421b,26,M,1.8034,92.07925111,28.31246274
+422b,28,F,1.7272,91.62565874,30.71367973
+423a,24,F,1.7018,102.965468,35.55286135
+423b,24,F,1.7018,91.62565874,31.63734798
+424b,34,F,1.7018,91.62565874,31.63734798
+425a,27,F,1.5748,81.6466266,32.9220927
+425b,27,F,1.5748,56.69904625,22.86256437
+426a,21,M,1.778,108.8621688,34.43606104
+426b,21,M,1.778,90.718474,28.69671754
+427a,30,M,1.8542,106.594207,31.00419428
+427b,30,M,1.8542,90.718474,26.38654831
+428a,23,M,1.8796,104.3262451,29.52994947
+428b,23,M,1.8796,90.718474,25.67821693
+429b,27,M,1.8796,90.718474,25.67821693
+430b,26,M,1.7018,90.718474,31.32410691
+431a,38,M,1.8034,136.077711,41.84107794
+432a,25,M,1.8034,136.077711,41.84107794
+432b,25,M,1.8034,90.718474,27.89405196
+433b,25,F,1.651,90.718474,33.28140022
+434b,21,M,1.8542,90.718474,26.38654831
+435b,36,F,1.6764,90.718474,32.2805133
+436b,25,F,1.6764,90.718474,32.2805133
+437a,33,M,1.8542,124.7379018,36.28150394
+437b,33,M,1.8542,90.718474,26.38654831
+438b,21,M,1.7272,90.62775553,30.37917431
+439b,43,M,1.8542,90.44631858,26.30738866
+440a,32,M,1.8796,127.459456,36.0778948
+440b,32,M,1.8796,90.26488163,25.54982585
+441a,24,M,1.8034,127.0058636,39.05167274
+441b,24,M,1.8034,90.26488163,27.7545817
+442a,23,M,1.8034,129.7274178,39.8884943
+442b,23,M,1.8034,90.26488163,27.7545817
+443b,30,M,1.9304,90.26488163,24.22279196
+444b,29,F,1.778,90.26488163,28.55323395
+445b,26,F,1.7018,90.26488163,31.16748638
+446a,31,F,1.8542,117.4804238,34.17058005
+446b,31,F,1.8542,89.81128926,26.12268282
+448a,26,F,1.6764,112.4909078,40.0278365
+449a,26,M,1.9304,121.5627552,32.62164948
+449b,26,M,1.9304,89.81128926,24.10106939
+450a,17,M,1.8796,104.3262451,29.52994947
+451a,25,M,1.8288,113.3980925,33.90574747
+451b,25,M,1.8288,89.81128926,26.853352
+452a,26,M,1.7272,105.2334298,35.2751173
+452b,26,M,1.7272,89.81128926,30.10548806
+453a,22,F,1.651,109.7693535,40.27049425
+453b,22,F,1.651,89.81128926,32.94858622
+454b,22,F,1.4986,89.35769689,39.78876966
+455b,30,F,1.7272,89.35769689,29.95344014
+456a,18,M,1.8796,99.33672903,28.11764754
+457b,25,F,1.7018,88.90410452,30.69762477
+458b,21,M,1.7272,88.90410452,29.80139222
+459a,27,M,1.7526,121.1091628,39.42860277
+460a,28,M,1.778,111.1301307,35.153479
+460b,28,M,1.778,88.45051215,27.9792996
+462b,24,M,1.8796,88.45051215,25.03626151
+464b,27,M,1.8288,88.45051215,26.44648303
+465a,21,F,1.6764,104.3262451,37.12259029
+465b,21,F,1.6764,88.45051215,31.47350047
+466a,35,M,1.8288,106.594207,31.87140264
+466b,35,M,1.8288,88.45051215,26.44648303
+467a,20,M,1.8542,112.4909078,32.71931991
+467b,20,M,1.8542,88.45051215,25.7268846
+468a,26,M,1.6764,107.5013917,38.25240826
+468b,26,M,1.6764,88.45051215,31.47350047
+469a,29,M,1.7018,106.594207,36.80582564
+470a,18,F,1.7272,111.1301307,37.25174029
+471b,26,F,1.7018,88.45051215,30.54100424
+472a,28,M,1.8288,102.0582833,30.51517274
+472b,28,M,1.8288,88.45051215,26.44648303
+473a,36,M,1.8542,115.6660544,33.64284911
+473b,36,M,1.8542,88.45051215,25.7268846
+474a,18,M,1.7018,106.594207,36.80582564
+474b,18,M,1.7018,88.45051215,30.54100424
+475a,22,M,1.778,99.7903214,31.56638929
+475b,22,M,1.778,88.45051215,27.9792996
+476b,27,F,1.5494,88.45051215,36.84454932
+477a,29,F,1.6764,113.3980925,40.35064162
+477b,29,F,1.6764,88.45051215,31.47350047
+478b,26,F,1.5494,87.99691978,36.65560292
+479a,21,F,1.651,94.80080533,34.77906323
+479b,21,F,1.651,87.99691978,32.28295821
+480a,27,M,1.8034,115.212462,35.42544599
+480b,27,M,1.8034,87.54332741,26.91776014
+481a,26,F,1.6764,112.0373154,39.86643393
+481b,26,F,1.6764,87.54332741,31.15069533
+482a,35,M,1.6764,97.52235955,34.7015518
+482b,35,M,1.6764,87.54332741,31.15069533
+483a,28,F,1.7272,122.4699399,41.05293826
+483b,28,F,1.7272,87.54332741,29.34524846
+484b,20,M,1.7526,87.08973504,28.35315255
+485a,20,M,1.651,113.3980925,41.60175027
+485b,20,M,1.651,87.08973504,31.95014421
+486a,27,F,1.6764,117.9340162,41.96466729
+486b,27,F,1.6764,87.08973504,30.98929277
+487b,30,M,1.6764,87.08973504,30.98929277
+488a,24,F,1.6256,100.2439138,37.93417411
+488b,24,F,1.6256,86.63614267,32.7847387
+489a,29,F,1.6383,115.212462,42.92522643
+489b,29,F,1.6383,86.63614267,32.27841829
+490a,22,M,1.7526,105.6870222,34.407732
+490b,22,M,1.7526,86.1825503,28.05780721
+492a,24,M,1.6764,113.3980925,40.35064162
+492b,24,M,1.6764,86.1825503,30.66648763
+493a,35,M,1.778,117.4804238,37.1622492
+493b,35,M,1.778,86.1825503,27.26188166
+494b,25,F,1.6764,86.1825503,30.66648763
+495a,20,M,1.8796,120.2019781,34.02363745
+495b,20,M,1.8796,86.1825503,24.39430609
+496b,26,F,1.6256,86.1825503,32.61309085
+497a,18,M,1.8542,127.0058636,36.94116763
+497b,18,M,1.8542,86.1825503,25.06722089
+498b,26,F,1.8288,86.1825503,25.76836808
+499a,35,M,1.7526,117.4804238,38.2472214
+499b,35,M,1.7526,85.72895793,27.91013454
+500a,30,M,1.8034,94.80080533,29.1492843
+500b,30,M,1.8034,85.91039488,26.41566721
+501b,24,F,1.6764,85.72895793,30.50508507
+502a,33,M,1.7272,85.27536556,28.58500886
+502b,33,M,1.7272,84.82177319,28.43296094
+varun-tej.jpg,28,m,1.94,95,25.24178978
+Rana Daggubati.jpeg,33,m,1.91,95,26.04095282
+Prabhas.jpeg,38,m,1.89,85,23.79552644
+allari_naresh.jpg,39,m,1.88,69,19.52240833
+maheshbabu.jpg,43,m,1.88,70,19.80534178
+manchuvishnu.jpeg,36,m,1.88,80,22.63467632
+sumanth.jpeg,43,m,1.87,78,22.30547056
+gopichand.jpg,39,m,1.85,75,21.9138057
+Bellamkonda Srinivas.jpg,25,m,1.85,80,23.37472608
+Ravi-Teja.jpg,50,m,1.83,70,20.90238586
+Pawan Kalyan.jpeg,47,m,1.8,70,21.60493827
+Manchu Manoj.jpg,35,m,1.8,75,23.14814815
+Nithiin.jpg,34,m,1.78,73,23.0400202
+Ram-Pothineni.jpg,29,m,1.73,65,21.71806609
+Jr. NTR.jpg,34,m,1.75,78,25.46938776
+Suriya.jpg,42,m,1.7,72,24.91349481
+Ajith-Kumar.jpg,46,m,1.75,80,26.12244898
+Nani.jpg,34,m,1.75,65,21.2244898
+Vijay-Deverakonda.jpg,28,m,1.78,75,23.67125363
+Rashmika-Mandanna.jpg,22,f,1.68,54,19.13265306
+Shalini-Pandey.jpg,24,f,1.65,50,18.36547291
+Nandamuri-Tarakaratna.jpg,35,m,1.8,75,23.14814815
+Sai-Dharam-Tej.jpg,31,m,1.8,70,21.60493827
+Raj-Tarun.jpg,25,m,1.75,64,20.89795918
+Allu-Arjun-.jpg,35,m,1.75,69,22.53061224
+Ram-Charan.jpg,30,m,1.74,75,24.77209671
+Chiranjeevi.jpg,62,m,1.75,80,26.12244898
+Akkineni-Nagarjuna.jpg,56,m,1.83,74,22.09680791
+naga-chaitanya.jpg,31,m,1.75,74,24.16326531
+Daggubati-Venkatesh.jpg,56,m,1.83,78,23.29122996
+Jagapati-Babu.jpg,56,m,1.75,70,22.85714286
+Suman.jpg,58,m,1.78,75,23.67125363
+Ali-Basha.jpg,49,m,1.65,70,25.71166208
+Adivi-Sesh.jpg,32,m,1.78,70,22.09317005
+Radhika-Pandit.jpg,32,f,1.6,50,19.53125
+Yash.jpg,31,m,1.8,75,23.14814815
+Nayanthara.jpg,32,f,1.65,53,19.46740129
+Anushka-Shetty.jpg,35,f,1.78,62,19.56823633
+Kajal-Aggarwal.jpg,32,f,1.65,55,20.2020202
+Tamannaah-Bhatia3.jpg,27,f,1.65,55,20.2020202
+Hansika-Motwani.jpg,26,f,1.65,57,20.93663912
+Keerthy-Suresh.jpg,25,f,1.63,54,20.32443826
+Rajinikanth.jpg,67,m,1.73,75,25.05930703
+Kamal-Hassan.jpg,62,m,1.7,76,26.29757785
+Vijay-Sethupathi.jpg,39,m,1.75,65,21.2244898
+Sivakarthikeyan.jpg,32,m,1.75,69,22.53061224
+Santhanam.jpg,37,m,1.7,63,21.79930796
+Raghava-Lawrence-2.jpg,42,m,1.78,75,23.67125363
+Vishal-Krishna.jpg,40,m,1.8,73,22.5308642
+queen.jpg,92,f,1.62,65,24.76756592
+p_harry.jpg,34,m,1.86,78,22.54595907
+kate.jpg,36,f,1.75,55,17.95918367
+p_william.jpg,36,m,1.9,89,24.65373961
+cam.jpg,71,f,1.74,60,19.81767737
+charles.jpg,69,m,1.75,75,24.48979592
+diana.jpg,36,f,1.78,58,18.30576947
+lacey.jpg,30,f,1.6,60,23.4375
+chabert.jpg,36,f,1.57,50,20.28479857
+urban.jpg,46,m,1.84,93,27.46928166
+pliki.jpg,46,m,1.83,82,24.48565201
+lager.jpg,85,m,1.75,65,21.2244898
+smirnoff.jpg,40,m,1.63,55,20.70081674
+karim.jpg,30,m,1.82,80,24.1516725
+gillian.jpg,30,f,1.78,58,18.30576947
+jabbar.jpg,71,m,2.18,120,25.2503998
+west.jpg,41,m,1.73,75,25.05930703
+horn.jpg,31,f,1.71,55,18.80920625
+kosugi.jpg,43,m,1.82,79,23.8497766
+hodder.jpg,63,m,1.85,105,30.67932798
+glenn.jpg,51,m,2.01,140,34.65260761
+burru.jpg,42,f,1.59,68,26.89767019
+truman.jpg,88,m,1.73,80,26.7299275
+arnie.jpg,71,m,1.816,111,33.65823129
+mali.jpg,20,f,1.84,60,17.7221172
+niko.jpg,45,m,2.13,150,33.0622231
+miro.jpg,71,m,1.88,84,23.76641014
+barack-o.jpg,57,m,1.85,81,23.66691015
+col-b.jpg,65,f,1.53,61,26.05835362
+nisarko.jpg,63,m,1.664,70,25.28083395
+m-obama.jpg,54,f,1.797,73,22.60615525
+sasha-o.jpg,17,f,1.76,58,18.72417355
+danroo.jpg,86,m,1.62,65,24.76756592
+a-young.jpg,52,m,1.8,89,27.4691358
+j-lennon.jpg,55,m,1.73,80,26.7299275
+zoey-g.jpg,34,f,1.7,55,19.03114187
+ulla-a.jpg,72,f,1.73,60,20.04744562
+erik-a.jpg,54,m,1.9,82,22.71468144
+val-l.jpg,43,m,1.83,78,23.29122996
+tasya-v-r.jpg,42,m,1.71,50,17.09927841
+herb-r.jpg,50,m,1.79,79,24.65590962
+maxim-m.jpg,50,m,1.88,85,24.04934359
+salma-hayek.jpg,52,f,1.562,54,22.13256257
+morgan-freeman.jpg,81,m,1.886,97,27.27020216
+oprah.jpg,64,f,1.676,78,27.76812618
+solo.jpg,76,m,1.8,81,25
+tom-h.jpg,37,m,1.873,75,21.37891737
+tom-sell.jpg,73,m,1.918,91,24.7368381
+robert-de-niro.jpg,75,m,1.753,80,26.03311608
+reese-spoon.jpg,42,f,1.562,50,20.49311349
+dr-dre.jpg,53,m,1.84,79,23.33412098
+julia-roberts.jpg,50,f,1.727,57,19.11129783
+kevin-costner.jpg,63,m,1.854,82,23.85582239
+francis-ford.jpg,79,m,1.79,130,40.57301582
+tom-cruise.jpg,56,m,1.721,71,23.97157714
+natalie-portman.jpg,37,f,1.588,50,19.82754792
+j-jonas.jpg,29,m,1.715,65,22.09963536
+swanh-wa.jpg,47,m,1.85,86,25.12783053
+peter-d.jpg,48,m,1.321,50,28.65262192
+d-was.jpg,63,m,1.822,80,24.09867927
+d-rassam.jpg,36,m,1.89,85,23.79552644
+a-paquin.jpg,41,m,1.82,84,25.35925613
+lo-di-cap.jpg,43,m,1.81,80,24.41927902
+winona-ryder.jpg,46,f,1.588,50,19.82754792
+bruce-willis.jpg,63,m,1.803,84,25.83972174
+j-g-levirt.jpg,37,m,1.753,72,23.42980447
+pollow-da-jo.jpg,40,m,1.78,100,31.56167151
+lisa-roerts-gill.jpg,53,f,1.6,70,27.34375
+jodie-foster.jpg,55,f,1.588,55,21.81030271
+brooke-shields.jpg,53,f,1.791,70,21.8226189
+ques-lati.jpg,48,f,1.772,91,28.98103939
+spike-j.jpg,48,m,1.7,74,25.60553633
+calvun-harris.jpg,34,m,1.97,93,23.96351362
+kali-pikk.jpg,46,m,1.83,82,24.48565201
+missy0eellrio.jpg,47,f,1.549,68,28.34040663
+joel-adden.jpg,39,m,1.702,75,25.89060219
+bwnhi-madden.jpg,39,m,1.67,76,27.25088745
+nock-swardson.jpg,42,m,1.75,80,26.12244898
+henru-azaria.jpg,54,m,1.82,78,23.54788069
+michael-lockeook.jpg,57,m,1.77,78,24.89706023
+christ-cpoopls.jpg,56,m,1.83,115,34.33963391
+sofia-copopola.jpg,47,f,1.638,52,19.38097176
+roman-coppola.jpg,53,m,1.82,87,26.26494385
+cydney-benard.jpg,65,f,1.57,58,23.53036634
+shauna-robertson.jpg,43,f,1.6,52,20.3125
+jay-z.jpg,48,m,1.867,86,24.67231012
+damon-thmas.jpg,47,m,1.78,80,25.2493372
+quincy-jones.jpg,85,m,1.689,95,33.30153913
+bill-lawrence.jpg,49,m,1.88,83,23.48347669
+sam-speihek.jpg,38,m,1.73,75,25.05930703
+charilie-ebersol.jpg,35,m,1.88,80,22.63467632
+mike-todd.jpg,48,m,1.66,72,26.12861083
+teddy-geignew.jpg,30,f,1.8,69,21.2962963
+isaerk-houghton.jpg,47,m,1.67,80,28.68514468
+sion-cowell.jpg,59,m,1.727,84,28.16401785
+quincy-jones-3.jpg,49,m,1.72,87,29.40778799
+janet-sheen.jpg,74,f,1.62,73,27.81588173
+nancy-juvoven.jpg,51,f,1.65,75,27.54820937
+sly-stallomne.jpg,72,m,1.734,100,33.25843534
+hugh-hudson.jpg,82,m,1.72,98,33.12601406
+ahmet-zappa.jpg,44,m,1.78,85,26.82742078
+sandra-bullock.jpg,54,f,1.702,54,18.64123358
+alex-dr-rakof.jpg,47,m,1.78,76,23.98687034
+david-foster.jpg,68,m,1.81,82,25.029761
+glunn-trunman.jpg,71,m,1.75,72,23.51020408
+brett-ratner.jpg,49,m,1.73,93,31.07354071
+eminem.jpg,45,m,1.721,67,22.62106575
+tommy-mottola.jpg,70,m,1.73,87,29.06879615
+devon-franlik.jpg,40,m,1.85,75,21.9138057
+lenny-kravitz.jpg,54,m,1.74,72,23.78121284
+scott-speer.jpg,36,m,1.86,85,24.56931437
+martin-johnson.jpg,33,m,1.82,78,23.54788069
+chirs-nolan.jpg,48,m,1.81,80,24.41927902
+lou-alder.jpg,84,m,1.79,85,26.52851035
+sharon-stone.jpg,60,f,1.759,58,18.74546917
+andrew-form.jpg,46,m,1.9,95,26.31578947
+harvey-weinstein.jpg,66,m,1.83,115,34.33963391
+p_philip.jpg,97,m,1.83,86,25.68007405
+camila.jpg,71,f,1.74,60,19.81767737
+princess-margaret.jpg,71,f,1.55,58,24.14151925
+pruncess-anne.jpg,68,f,1.67,56,20.07960128
+queen-elizabeth-the-queen-mother.jpg,101,f,1.57,68,27.58732606
+p_andrew.jpg,58,m,1.83,82,24.48565201
+p_edward.jpg,54,m,1.83,76,22.69401893
+charloette-caisarghi.jpg,32,f,1.7,55,19.03114187
+jacques-liebowitch.jpg,76,m,1.75,98,32
+elon-mush.jpg,47,m,1.867,90,25.81985943
+jonathon-scott.jpg,40,m,1.95,95,24.98356345
+anwar-hadid.jpg,19,m,1.85,73,21.32943755
+j-d-scott.jpg,42,m,1.92,93,25.22786458
+kylie-jenner.jpg,21,f,1.67,63,22.58955144
+brooke-hogan.jpg,30,f,1.772,75,23.88547203
+SHARON-0SBURNE.jpg,66,f,1.575,57,22.97808012
+drew-scort.jpg,40,m,1.95,95,24.98356345
+conan-o-brien.jpg,55,m,1.93,87,23.35633171
+duane-chapman.jpg,65,m,1.7,91,31.48788927
+jamie-oliver.jpg,43,m,1.778,75,23.72453724
+nick-lachey.jpg,44,m,1.75,76,24.81632653
+kendall-jenner.jpg,22,f,1.78,58,18.30576947
+kim-kardarshuian.jpg,37,f,1.575,59,23.78432855
+iman-shumpert.jpg,28,m,1.96,101,26.2911287
+drew-carey.jpg,60,m,1.78,85,26.82742078
+donny-osmond.jpg,60,m,1.73,80,26.7299275
+kandi-burrrs.jpg,42,f,1.59,68,26.89767019
+nicole-ritchie.jpg,37,f,1.549,51,21.25530497
+ozzy-osburne.jpg,69,m,1.765,76,24.39631166
+ray-j.jpg,37,m,1.7,74,25.60553633
+adrienne-bailon.jpg,34,f,1.499,54,24.03203203
+blac-chyna.jpg,30,f,1.575,63,25.3968254
+jimmy-fallon.jpg,44,m,1.816,82,24.86463933
+danielle-panabaker.jpg,31,f,1.689,53,18.57875341
+arsenio-hall.jpg,62,m,1.797,75,23.22550197
+amber-rose.jpg,34,f,1.72,67,22.64737696
+jenny-macarthy.jpg,45,f,1.67,56,20.07960128
+ellen-degenered.jpg,60,f,1.702,59,20.36727373
+caitlyn-jenner.jpg,68,f,1.85,88,25.71219869
+craig-fegurson.jpg,56,m,1.85,89,26.00438276
+kristin-callavari.jpg,31,f,1.6,50,19.53125
+jwoww.jpg,32,f,1.702,58,20.0220657
+snooki.jpg,30,f,1.422,48,23.73788626
+brie-bella.jpg,34,f,1.68,54,19.13265306
+kelly-osnurne.jpg,33,f,1.568,60,24.40389421
+jack-osburne.jpg,32,m,1.77,70,22.34351559
+nick-simmona.jpg,29,m,2.03,85,20.62656216
+linda-hogan.jpg,59,f,1.74,67,22.12973973
+gene-somons.jpg,69,m,1.854,85,24.72859638
+nick-hogan.jpg,28,m,1.83,75,22.39541342
+brando-cyris.jpg,31,f,1.65,57,20.93663912
+mohamed-hadid.jpg,69,m,1.83,65,19.4093583
+yolanda-foster.jpg,54,f,1.727,62,20.78772746
+rob-kardarshian.jpg,31,m,1.81,100,30.52409878
+khloe-kardarshian.jpg,34,f,1.746,65,21.32184971
+kourtney-kardrshian.jpg,39,f,1.524,48,20.666708
+kris-jenner.jpg,62,f,1.664,63,22.75275055
+rachel-crane.jpg,30,f,1.73,53,17.70857697
+simon-cowell.jpg,59,m,1.727,84,28.16401785
+elisibetta-gregorasi.jpg,38,f,1.76,48,15.49586777
+heidi-klum.jpg,45,f,1.753,50,16.27069755
+jon-stewart.jpg,55,m,1.689,78,27.34231634
+dick-eberson.jpg,71,m,1.88,100,28.29334541
+greg-james.jpg,32,m,1.93,84,22.55094096
+emily-nustamamte.jpg,37,f,1.65,65,23.87511478
+frankie-grande.jpg,35,m,1.73,68,22.72043837
+brittni-ganrinasty.jpg,34,f,1.74,55,18.16620425
+win-mcmurry.jpg,35,f,1.65,55,20.2020202
+ali-lohan.jpg,24,f,1.75,55,17.95918367
+teyana-taylor.jpg,27,f,1.626,50,18.91162823
+tahiry-rose.jpg,39,f,1.57,60,24.34175829
+tameka-harris.jpg,43,f,1.5,50,22.22222222
+nicole-alexander.jpg,35,f,1.57,58,23.53036634
+k-michelle.jpg,36,f,1.549,60,25.00624114
+jack-maynnard.jpg,23,m,1.75,76,24.81632653
+hayes-grier.jpg,18,m,1.75,70,22.85714286
+nash-grier.jpg,20,m,1.83,75,22.39541342
+hayley-williams.jpg,26,f,1.55,57,23.72528616
+bernice-burgos.jpg,38,f,1.7,58,20.06920415
+sonny-psmond.jpg,60,m,1.73,80,26.7299275
+kumal-nayyar.jpg,37,m,1.71,72,24.62296091
+ike-barinholtz.jpg,41,m,1.89,90,25.19526329
+isla-fisher.jpg,42,f,1.57,43,17.44492677
+fred-gynne.jpg,66,m,1.96,100,26.03082049
+gene-hackman.jpg,88,m,1.88,80,22.63467632
+nikki-sizz.jpg,59,f,1.829,86,25.70816273
+maria-shriver.jpg,62,f,1.664,58,20.9469767
+bob-fylan.jpg,77,m,1.689,67,23.48634865
+stephen-glynnehall.jpg,69,m,1.85,80,23.37472608
+jenniffer-love-hewitt.jpg,39,f,1.575,65,26.20307382
+dgreg-james.jpg,32,m,1.93,84,22.55094096
+tyrese-gibsn.jpg,39,m,1.797,78,24.15452205
+hill-harper.jpg,52,m,1.702,72,24.85497811
+glynn-turnman.jpg,71,m,1.75,72,23.51020408
+sophie-de-rakoff.jpg,49,f,1.562,58,23.77201165
+devon-franlkin.jpg,40,m,1.85,75,21.9138057
+bruce-bozlieghtner.jpg,68,m,1.88,82,23.20054323
+dean-mcdermitt.jpg,51,m,1.91,100,27.41152929
+iliza-shei.jpg,34,f,1.65,63,23.14049587
+charlie-chaplin.jpg,88,m,1.626,75,28.36744235
+ed-helms.jpg,44,m,1.82,75,22.64219297
+curly-howard.jpg,48,m,1.65,88,32.32323232
+larry-fine.jpg,72,m,1.63,75,28.22838647
+jim-carrey.jpg,56,m,1.867,82,23.52476081
+jack-black.jpg,49,m,1.68,111,39.32823129
+kevin-hart.jpg,39,m,1.575,64,25.79994961
+ben-stiller.jpg,51,m,1.7,75,25.95155709
+moe-howard.jpg,77,m,1.613,76,29.21089459
+shemp-howard.jpg,60,m,1.65,78,28.65013774
+mike-eeps.jpg,47,m,1.829,85,25.40923061
+keirh-alen.jpg,65,m,1.677,79,28.0905968
+steve-carell.jpg,56,m,1.753,78,25.38228817
+seann-william-scott.jpg,42,m,1.81,79,24.11403803
+dsarsenio-hall.jpg,62,m,1.797,75,23.22550197
+martin-lawrence.jpg,53,m,1.702,75,25.89060219
+eddie-issard.jpg,56,m,1.7,80,27.6816609
+eddie-murphy.jpg,57,m,1.76,77,24.85795455
+damon-waynas.jpg,58,m,1.87,89,25.45111384
+damon-waynas-jr.jpg,35,m,1.85,85,24.83564646
+marlon-waynas.jpg,46,m,1.84,76,22.44801512
+kim-waynas.jpg,56,m,1.8,72,22.22222222
+garry-shandang.jpg,66,m,1.79,85,26.52851035
+craig-frgueson.jpg,56,m,1.85,89,26.00438276
+colin-mchorie.jpg,60,m,1.85,85,24.83564646
+freddie-prinze-jr.jpg,22,m,1.88,70,19.80534178
+norm-mcdobald.jpg,54,m,1.867,80,22.95098616
+nick-offerman.jpg,48,m,1.791,91,28.36940456
+verne-troyer.jpg,49,m,0.813,16,24.20688414
+alec-baldwin.jpg,60,m,1.803,110,33.83773085
+melissa-macrthy.jpg,48,f,1.575,94,37.89367599
+kyle-mooney.jpg,34,m,1.7,74,25.60553633
+jason-segl.jpg,38,m,1.924,98,26.47377907
+eddie-grifin.jpg,50,m,1.702,76,26.23581022
+gad-emaleh.jpg,47,m,1.77,76,24.25867407
+elizabeth-oslen.jpg,29,f,1.68,57,20.19557823
+michael-nessom.jpg,23,m,1.9,73,20.22160665
+paris-hilton.jpg,37,f,1.73,55,18.37682515
+ashley-oslen.jpg,32,f,1.511,48,21.02385288
+christine-bauagmater.jpg,44,f,1.79,64,19.97440779
+daniel-neeson.jpg,22,m,1.87,73,20.8756327
+allie-teliz.jpg,24,f,1.69,54,18.90690102
+mary-kate-oslen.jpg,32,f,1.499,49,21.80684388
+nikki-sixx.jpg,59,m,1.829,86,25.70816273
+kylie-miniogue.jpg,50,f,1.52,46,19.9099723
+oscar-de-le0renta.jpg,82,m,1.75,80,26.12244898
+sophie-simmons.jpg,26,f,1.715,73,24.81959048
+sami-mori.jpg,31,f,1.65,49,17.99816345
+lourdes-cicone-leon.jpg,21,f,1.7,58,20.06920415
+kidada-jones.jpg,44,f,1.698,57,19.76967291
+samaire-armstrong.jpg,37,f,1.613,55,21.13946319
+jhays-grier.jpg,18,f,1.75,70,22.85714286
+prince-michael-jackson-II.jpg,21,m,1.78,85,26.82742078
+rchars-hammond.jpg,48,m,1.67,66,23.66524436
+nick-robinson.jpg,55,m,1.78,78,24.61810377
+bella-hadid.jpg,22,f,1.75,53,17.30612245
+pyper-america-smith.jpg,21,f,1.79,54,16.85340657
+gal-galdot.jpg,33,f,1.77,50,15.95965399
+gigi-hadid.jpg,23,f,1.79,59,18.41390718
+monica-belluci.jpg,54,f,1.702,64,22.09331387
+cameron-diaz.jpg,46,f,1.727,58,19.44658375
+joann-van-den-herik.jpg,19,f,1.8,80,24.69135802
+hailey-baldwin.jpg,21,f,1.7,55,19.03114187
+hannad-simone.jpg,38,f,1.68,56,19.84126984
+ivanka-trump.jpg,36,f,1.78,63,19.88385305
+meghan-markle.jpg,37,f,1.651,58,21.27814907
+nicole-kidman.jpg,51,f,1.791,58,18.08159851
+barbara-palvin.jpg,25,f,1.72,55,18.59113034
+marilyn-monroe.jpg,36,f,1.664,63,22.75275055
+olympia-valence.jpg,25,f,1.651,55,20.17755515
+lucky-blue-smoth.jpg,20,m,1.892,75,20.95168709
+missy-peregrym.jpg,36,f,1.676,60,21.36009706
+doutzen-kroes.jpg,33,f,1.75,54,17.63265306
+neha-kapur.jpg,34,f,1.765,57,18.29723375
+paris-hilton-1.jpg,37,f,1.73,55,18.37682515
+irina-shayk.jpg,32,f,1.78,56,17.67453604
+nicola-peltz.jpg,23,f,1.664,55,19.86351239
+patrick-schwazennager.jpg,25,m,1.842,79,23.28347722
+tyra-banks.jpg,44,f,1.778,64,20.24493845
+ireland-baldwin.jpg,22,f,1.83,62,18.51354176
+karuecchhe-tran.jpg,30,f,1.549,50,20.83853428
+ash-stymest.jpg,27,m,1.86,70,20.23355301
+daisy-lowe.jpg,29,f,1.78,61,19.25261962
+gabriella-wilde.jpg,29,f,1.77,57,18.19400555
+hannah-davis.jpg,28,f,1.74,57,18.8267935
+colton-haynes.jpg,30,m,1.73,70,23.38868656
+gemma-atkinson.jpg,33,f,1.75,66,21.55102041
+laetita-grista.jpg,40,f,1.69,58,20.30741221
+daisy-clemente-smityh.jpg,23,f,1.78,55,17.35891933
+nicky-hiltron-rotschild.jpg,35,f,1.702,55,18.98644161
+brpe-hogan.jpg,26,f,1.8,56,17.28395062
+braison-cyrus.jpg,24,m,1.72,84,28.39372634
+joe-alwyn.jpg,27,m,1.854,86,25.01952104
+naomi-campbell.jpg,48,f,1.753,58,18.87400916
+natalie-pack.jpg,29,f,1.8,52,16.04938272
+lily-rose-depp.jpg,19,f,1.6,46,17.96875
+isabelle-cornish.jpg,24,f,1.727,56,18.7760119
+dylan-pen.jpg,27,f,1.7,52,17.99307958
+jordana-brewster.jpg,38,f,1.689,55,19.27983844
+christian-monzan.jpg,41,m,1.88,81,22.91760978
+sohie-burzzax.jpg,29,f,1.75,72,23.51020408
+daisy-fuentes.jpg,51,f,1.78,60,18.9370029
+iman-abdulmajod.jpg,63,f,1.75,52,16.97959184
+amber=rose.jpg,34,f,1.702,67,23.12893796
+carla=bruni.jpg,50,f,1.727,55,18.44072597
+nicole-ari-parker.jpg,48,f,1.715,63,21.41964658
+bar-rafeli.jpg,33,f,1.74,58,19.15708812
+ed-westwick.jpg,31,m,1.74,74,24.44180209
+franscesca-eastwood.jpg,25,f,1.65,48,17.63085399
+izabel-goluzart.jpg,33,f,1.77,57,18.19400555
+krysten-ritter.jpg,36,f,1.75,57,18.6122449
+starlie-cheynne-smith.jpg,25,f,1.65,59,21.67125803
+molly-sims.jpg,45,f,1.765,63,20.22325835
+mitchell-slaggert.jpg,24,m,1.88,78,22.06880942
+myle-dimarco.jpg,29,m,1.88,77,21.78587596
+boris-kodjoe.jpg,45,m,1.93,100,26.84635829
+will-peltz.jpg,32,m,1.83,77,22.99262444
+shannon-tweed.jpg,61,f,1.778,68,21.5102471
+madison-de-le-garza.jpg,16,f,1.65,76,27.91551882
+arianny-celeste.jpg,32,f,1.651,50,18.34323195
+jessica-caban.jpg,36,f,1.63,46,17.31341037
+heather-christie.jpg,32,f,1.75,52,16.97959184
+januay-jones.jpg,40,f,1.676,56,19.93609059
+monet-mazue.jpg,42,f,1.727,55,18.44072597
+brittany-bell.jpg,30,f,1.75,56,18.28571429
+jenny-shimizu.jpg,51,m,1.72,53,17.91508924
+peggy-lipton.jpg,72,f,1.676,55,19.58008897
+ulla-andersson.jpg,72,f,1.73,60,20.04744562
+leila-george-donorio.jpg,26,f,1.75,53,17.30612245
+jacqui-ainsley.jpg,36,f,1.75,51,16.65306122
+masha-nobaselva,33,f,1.75,55,17.95918367
+kim-basinger.jpg,64,f,1.689,65,22.78526361
+holly-valance.jpg,35,f,1.708,65,22.28115111
+jason-lewis.jpg,47,m,1.842,85,25.05184258
+shemar-moore.jpg,48,m,1.829,85,25.40923061
+carmen-ortega.jpg,33,f,1.57,54,21.90758246
+oliviua-culpo.jpg,26,f,1.66,51,18.507766
+megan-rossee.jpg,31,f,1.78,57,17.99015276
+carie-prejean.jpg,31,f,1.78,55,17.35891933
+aaron-o-conell.jpg,32,m,1.85,90,26.29656684
+chanel-iman.jpg,27,f,1.78,48,15.14960232
+jenna-daneberger.jpg,29,f,1.75,50,16.32653061
+mark-wyshtach.jpg,38,m,1.89,80,22.39578959
+karen-elson.jpg,39,f,1.75,53,17.30612245
+zpe-kravitz.jpg,29,f,1.549,48,20.00499291
+dante-spencer.jpg,43,m,1.88,77,21.78587596
+nicole-johnson.jpg,33,f,1.7,55,19.03114187
+garcelle-beauvis.jpg,51,f,1.727,60,20.11715561
+amber-bvaletta.jpg,44,f,1.74,55,18.16620425
+daria-webrovy.jpg,34,f,1.8,55,16.97530864
+tamsin-egerton.jpg,29,f,1.778,54,17.08166682
+camila-moronne.jpg,21,f,1.75,55,17.95918367
+tracee-elis-ross.jpg,45,f,1.702,57,19.67685767
+lucila-sola.jpg,42,f,1.726,55,18.46210033
+kate-upton.jpg,26,f,1.778,65,20.56126561
+georgia-may-jagger.jpg,26,f,1.7,55,19.03114187
+mya.jpg,39,f,1.651,54,19.81069051
+lzzy-hale.jpg,34,f,1.73,57,19.04507334
+dan-stevens.jpg,36,m,1.83,77,22.99262444
+aimee-teagarden.jpg,29,f,1.676,57,20.29209221
+orson-welles.jpg,70,m,1.829,99,29.59428035
+harry-styles.jpg,24,m,1.77,74,23.62028791
+selena-gomez.jpg,26,f,1.638,55,20.49910475
+ariana-grande.jpg,25,f,1.537,47,19.89528308
+dove-cameron.jpg,21,f,1.57,52,21.09619051
+f-eazy.jpg,29,m,1.92,83,22.51519097
+julie-newmar.jpg,85,f,1.803,61,18.76455984
+shawn-mendes.jpg,20,m,1.848,80,23.4253481
+elvis-presely.jpg,42,m,1.822,75,22.59251182
+halsey.jpg,24,f,1.63,54,20.32443826
+lynda-carter.jpg,67,f,1.778,60,18.9796298
+paris-jackson.jpg,20,f,1.73,56,18.71094925
+demi-lovato.jpg,26,f,1.588,58,22.99995559
+price.jpg,57,m,1.575,55,22.1718317
+danni-monuge.jpg,46,f,1.575,52,20.96245906
+camila-cabello.jpg,21,f,1.575,50,20.15621063
+michael-jackson.jpg,50,m,1.75,62,20.24489796
+conor-maynard.jpg,25,m,1.73,70,23.38868656
+justin-beiber.jpg,24,m,1.716,66,22.41348395
+noel-gallahager.jpg,51,m,1.727,68,22.79944302
+emily-osment.jpg,26,f,1.57,57,23.12467037
+harru-connick-jr.jpg,51,m,1.85,78,22.79035793
+idina-menzel.jpg,47,f,1.63,58,21.8299522
+lea-michelle.jpg,32,f,1.575,53,21.36558327
+jack-johnson.jpg,22,m,1.74,65,21.46915048
+rihanna.jpg,30,f,1.727,61,20.45244154
+gary-barlow.jpg,47,m,1.71,76,25.99090318
+frank-sinatra.jpg,82,m,1.71,54,18.46722068
+lian-gallahager.jpg,46,m,1.778,75,23.72453724
+ed-sheeran.jpg,27,m,1.73,82,27.39817568
+frank-iero.jpg,36,m,1.68,65,23.03004535
+sam-smith.jpg,26,m,1.867,77,22.09032418
+JUSTIN-TIMBERLAKE.jpg,37,m,1.816,78,23.65173009
+julio-iglesias-sr.jpg,75,m,1.829,78,23.31670573
+ick-jonas.jpg,26,m,1.695,68,23.6684331
+jack-gilinsky.jpg,22,m,1.78,71,22.40878677
+kurt-cobain.jpg,27,m,1.75,60,19.59183673
+olivia-newton-john.jpg,70,f,1.676,57,20.29209221
+courtney-love.jpg,54,f,1.74,60,19.81767737
+megan-muganally.jpg,59,f,1.626,67,25.34158183
+faith-evans.jpg,45,f,1.68,60,21.2585034
+kelly-clarkson.jpg,36,f,1.613,78,29.97960234
+fergie.jpg,43,f,1.59,56,22.15102251
+florence-welch.jpg,32,f,1.74,58,19.15708812
+enrique-iglesias.jpg,43,m,1.876,78,22.16301981
+rita-ora.jpg,27,f,1.657,55,20.03169378
+taylor-swift.jpg,28,f,1.759,63,20.36145789
+niall-horan.jpg,25,m,1.727,75,25.14644451
+vanessa-hudgens.jpg,29,f,1.549,50,20.83853428
+sean-price.jpg,18,m,1.71,72,24.62296091
+mandy-moore.jpg,34,f,1.772,60,19.10837762
+holly-miranda.jpg,36,f,1.68,58,20.54988662
+ross-wilson.jpg,70,m,1.71,90,30.77870114
+becky-g.jpg,21,f,1.511,48,21.02385288
+lindsay-lohan.jpg,32,f,1.645,50,18.4772868
+jeniffer-lopez.jpg,49,f,1.638,55,20.49910475
+keith-urban.jpg,50,m,1.74,75,24.77209671
+joe-jonas.jpg,29,m,1.715,65,22.09963536
+lisa-marie-presley.jpg,50,f,1.575,59,23.78432855
+amanda-joy-miransa.jpg,27,f,1.68,55,19.48696145
+madonna.jpg,60,f,1.613,54,20.75510931
+victoria-justics.jpg,25,f,1.651,48,17.60950267
+chris-martin.jpg,41,m,1.861,80,23.09921604
+beyonce.jpg,37,f,1.68,60,21.2585034
+garth-brooks.jpg,56,m,1.83,87,25.97867957
+cyndi-lauper.jpg,65,f,1.6,49,19.140625
+corey-feldman.jpg,47,m,1.65,68,24.97704316
+lacey-shwimmer.jpg,30,f,1.6,60,23.4375
+lady-gaga.jpg,32,f,1.55,53,22.0603538
+julio-iglesias-jr.jpg,45,m,1.8,75,23.14814815
+nicole-shreizer.jpg,40,f,1.651,58,21.27814907
+amanda-stelberg.jpg,19,f,1.549,56,23.3391584
+noah-cyrus.jpg,18,f,1.63,46,17.31341037
+the-weekend.jpg,28,m,1.689,77,26.99177382
+maculay-culin.jpg,38,m,1.677,62,22.04578483
+robert-schwartzmann.jpg,35,m,1.72,80,27.04164413
+christina-auligera.jpg,37,f,1.562,58,23.77201165
+ellie-goulding.jpg,31,f,1.626,56,21.18102362
+paula-abdul.jpg,56,f,1.524,48,20.666708
+camila-grey.jpg,36,f,1.65,58,21.30394858
+conor-price.jpg,16,m,1.69,70,24.50894577
+nicole-appleton.jpg,43,f,1.67,58,20.79672989
+monica.jpg,37,f,1.727,60,20.11715561
+anthony-keidis.jpg,55,m,1.727,77,25.81701636
+jimi-hendrix.jpg,27,m,1.778,70,22.14290143
+smokey-robinson.jpg,78,m,1.79,82,25.59220998
+robbie-williams.jpg,44,m,1.822,90,27.11101418
+fred-durst.jpg,48,m,1.71,78,26.67487432
+zayn-malik.jpg,25,m,1.721,73,24.64683283
+britney-spears.jpg,36,f,1.632,55,20.65011053
+jillie-mack.jpg,60,f,1.65,50,18.36547291
+fka-twigs.jpg,30,f,1.59,50,19.77769867
+miley-cyrus.jpg,25,f,1.638,49,18.26283878
+aaliyah.jpg,22,f,1.65,57,20.93663912
+aaron-carter.jpg,29,m,1.75,72,23.51020408
+caleb-gollowill.jpg,36,m,1.78,75,23.67125363
+denise-mathews.jpg,57,f,1.65,56,20.56932966
+daddy-yankee.jpg,41,m,1.7,78,26.98961938
+faith-hill.jpg,51,f,1.75,55,17.95918367
+ian-broudie.jpg,60,m,1.68,70,24.8015873
+iggy-pop.jpg,71,m,1.68,65,23.03004535
+kacey-musagraves.jpg,30,f,1.65,60,22.03856749
+craig-davif.jpg,37,m,1.78,83,26.19618735
+corbin-bleu.jpg,29,m,1.73,78,26.06167931
+aimee-duffy.jpg,35,f,1.58,51,20.42941836
+drew-lachey.jpg,42,m,1.66,70,25.40281608
+frank-ocean.jpg,30,m,1.8,75,23.14814815
+frankie-avalon.jpg,79,m,1.69,73,25.55932916
+gavin-rossdale.jpg,52,m,1.85,75,21.9138057
+lainie-kazan.jpg,78,f,1.702,78,26.92622628
+luke-pritchard.jpg,33,m,1.753,70,22.77897657
+hugh-laurie.jpg,59,m,1.886,90,25.30224943
+morrissey.jpg,59,m,1.778,82,25.93882739
+montell-jordan.jpg,49,m,2.032,110,26.64067828
+mitchel-musso.jpg,27,m,1.73,68,22.72043837
+mason-musso.jpg,29,m,1.78,80,25.2493372
+moby.jpg,53,m,1.708,63,21.59557723
+norah-jones.jpg,39,f,1.562,55,22.54242484
+joel-madden.jpg,39,m,1.702,75,25.89060219
+benji-madden.jpg,39,m,1.67,76,27.25088745
+aimee-osburne.jpg,35,f,1.68,57,20.19557823
+otis-redding.jpg,26,m,1.854,100,29.09246633
+omarion.jpg,33,m,1.651,75,27.51484793
+navarone.jpg,31,m,1.85,76,22.20598977
+olly-murs.jpg,34,m,1.746,76,24.93016274
+trace-cyrus.jpg,29,m,1.91,70,19.1880705
+billy-ray-cyrus.jpg,57,m,1.829,84,25.11029848
+elizabeth-pattinson.jpg,34,f,1.77,62,19.78997095
+lilly-allen.jpg,33,f,1.575,56,22.57495591
+chris-brown.jpg,29,m,1.835,82,24.352397
+marion-cotillard.jpg,43,f,1.664,57,20.58582193
+bruno-mars.jpg,33,m,1.626,67,25.34158183
+thomas-mars.jpg,41,m,1.77,72,22.98190175
+austin-mahone.jpg,22,m,1.765,75,24.07530756
+olivia-d-abo.jpg,49,f,1.638,58,21.61723773
+tracia-leigh-fisher.jpg,49,f,1.62,58,22.10028959
+joely-fisher.jpg,50,f,1.7,66,22.83737024
+brandy-norwood.jpg,39,f,1.702,52,17.95081752
+karen-o.jpg,39,f,1.68,55,19.48696145
+julianna-hetfield.jpg,51,f,1.702,50,17.26040146
+julian-lennon.jpg,55,m,1.73,80,26.7299275
+zooey-deschanel.jpg,38,f,1.651,55,20.17755515
+teddy-geiger.jpg,30,f,1.8,69,21.2962963
+christina-millan.jpg,37,f,1.575,54,21.76870748
+mariah-carey.jpg,48,f,1.702,65,22.4385219
+r-kelly.jpg,51,m,1.854,91,26.47414436
+ashley-tisdale.jpg,33,f,1.588,49,19.43099696
+vanessa-paradis.jpg,45,f,1.6,54,21.09375
+telly-savalas.jpg,72,m,1.797,90,27.87060237
+billy-bob-thronton.jpg,63,m,1.778,64,20.24493845
+sophie-hunter.jpg,40,f,1.73,55,18.37682515
+devendra-banhart.jpg,37,f,1.8,74,22.83950617
+ann-cusack.jpg,57,f,1.77,58,18.51319863
+usher.jpg,39,m,1.727,70,23.47001488
+evan-dando.jpg,51,m,1.82,75,22.64219297
+mick-jagger.jpg,75,m,1.778,70,22.14290143
+mike-d-abo.jpg,74,m,1.72,66,22.30935641
+marc-anthony.jpg,50,m,1.676,65,23.14010515
+josh-groban.jpg,37,m,1.778,73,23.09188292
+gwen-stephani.jpg,49,m,1.676,55,19.58008897
+donnie-wahlberg.jpg,49,m,1.778,78,24.67351873
+danielle-spencer.jpg,49,f,1.58,50,20.02884153
+martha-plimpton.jpg,47,f,1.626,54,20.42455849
+pink.jpg,39,f,1.6,58,22.65625
+amelia-warner.jpg,36,f,1.676,53,18.86808574
+kiefer-sutherland.jpg,51,m,1.74,76,25.10239133
+ciara.jpg,32,f,1.715,62,21.07965219
+dave-navaro.jpg,51,m,1.75,76,24.81632653
+steve-hart.jpg,46,m,1.73,76,25.39343112
+perrie-edward.jpg,25,f,1.6,54,21.09375
+madeline-fuhrman.jpg,25,f,1.57,53,21.50188649
+the-dream.jpg,41,m,1.68,80,28.3446712
+m-pokora.jpg,33,m,1.8,72,22.22222222
+tom-jones.jpg,78,m,1.778,90,28.46944469
+nick-carter.jpg,38,m,1.829,89,26.6049591
+hilary-duff.jpg,31,f,1.549,56,23.3391584
+johm-stamos.jpg,55,m,1.791,80,24.94013588
+florent-pagny.jpg,56,m,1.67,70,25.0995016
+mark-wystrach.jpg,38,m,1.89,80,22.39578959
+christopher-french.jpg,36,m,1.84,75,22.1526465
+jared-murillo.jpg,30,m,1.7,70,24.22145329
+jon-foster.jpg,34,m,1.82,82,24.75546432
+zoe-kravitz.jpg,29,f,1.549,48,20.00499291
+janet-jackson.jpg,52,f,1.613,58,22.29252482
+george-michael.jpg,53,m,1.803,86,26.45495321
+jada-pinkett-smith.jpg,47,f,1.511,48,21.02385288
+GEORGIA.jpg,26,f,1.7,55,19.03114187
+KATE.jpg,26,f,1.77,65,20.74755019
+GAD.jpg,47,m,1.76,76,24.53512397
+FREDDIE.jpg,45D,m,1.75,78,25.46938776
+JAMES.jpg,40,m,1.79,84,26.21641022
+FRANK.jpg,52D,m,1.82,75,22.64219297
+ADAM.jpg,39,m,1.8,77,23.7654321
+CASSIE.jpg,32,f,1.67,54,19.36247266
+MCDERMOTT.jpg,51,m,1.91,100,27.41152929
+GILKES.jpg,39,m,1.85,77,22.49817385
+HARVEY.jpg,66,m,1.83,115,34.33963391
+ANDREW FORM.jpg,46,m,1.9,95,26.31578947
+SHARON STONE.jpg,60,f,1.75,55,17.95918367
+JESSE MCCARTNEY.jpg,31,m,1.75,75,24.48979592
+POLOW DA DON.jpg,40,m,1.78,100,31.56167151
+ROBBIE WILLIAMS.jpg,44,m,1.82,90,27.17063157
+NICHOLAS HOULT.jpg,28,m,1.89,82,22.95568433
+ZACHARY ABEL.jpg,38,m,1.85,80,23.37472608
+STEVEN SPIELBERG.jpg,71,m,1.7,85,29.41176471
+LUCILA SOLA.jpg,42,f,1.72,55,18.59113034
+CHRIS MARTIN.jpg,41,m,1.86,80,23.12406059
+MARK WAHLBERG.jpg,47,m,1.72,84,28.39372634
+ANDRE AGASSI.jpg,48,m,1.79,78,24.34380949
+ASHLEY JUDD.jpg,50,f,1.66,60,21.77384236
+MAXIMO MORRONE.jpg,50,m,1.88,85,24.04934359
+REBECCA DE MORNAY.jpg,59,f,1.65,57,20.93663912
+AL PACINO.jpg,78,m,1.66,78,28.30599506
+SHANNON BROWN.jpg,32,m,1.96,97,25.24989588
+KAY PANABAKER.jpg,28,f,1.52,60,25.96952909
+DEAN CAIN.jpg,52,m,1.81,90,27.4716889
+BETH BEHRS.jpg,32,f,1.65,52,19.10009183
+TRACEE ELLIS ROSS.jpg,45,f,1.7,57,19.72318339
+BUSTA RHYMES.jpg,46,m,1.85,115,33.60116874
+ADAM LAMBERT.jpg,36,m,1.82,83,25.05736022
+JOEY KERN.jpg,42,m,1.79,74,23.09540901
+VINCENT D'ONOFRIO.jpg,59,m,1.9,100,27.70083102
+JOSH DALLAS.jpg,39,m,1.82,80,24.1516725
+TAYLOR GOLDSMITH.jpg,33,m,1.75,73,23.83673469
+BRIAN HALLISAY.jpg,39,m,1.88,86,24.33227705
+GRETA SCACCHI.jpg,58,f,1.72,67,22.64737696
+ROSS MCCALL.jpg,42,m,1.74,76,25.10239133
+TERENCE STAMP.jpg,80,m,1.77,76,24.25867407
+RYAN ADAMS.jpg,43,m,1.72,75,25.35154137
+PAUL MCCARTNEY.jpg,76,m,1.76,78,25.18078512
+ZACHARY LEVI.jpg,38,m,1.9,100,27.70083102
+HERB RITTS.jpg,50,m,1.75,79,25.79591837
+BRUCE DAVISON.jpg,72,m,1.79,87,27.15271059
+LOU ADLER.jpg,84,m,1.79,85,26.52851035
+NICK SAVALAS.jpg,45,m,1.72,82,27.71768524
+CAMILA MORRONE.jpg,21,f,1.75,55,17.95918367
+ARIANA SAVALAS.jpg,31,f,1.7,64,22.14532872
+MICHELE HICKS.jpg,45,f,1.72,58,19.605192
+CHRISTOPHER NOLAN.jpg,48,m,1.81,80,24.41927902
+TAMSIN EGERTON.jpg,29,f,1.77,54,17.23642631
+SCARLETT JOHANSSON.jpg,33,f,1.6,57,22.265625
+AMBER SAINSBURY.jpg,40,f,1.72,55,18.59113034
+DARIA WERBOWY.jpg,34,f,1.8,55,16.97530864
+JESSICA LOWNDES.jpg,29,f,1.61,53,20.44674202
+AMBER VALLETTA.jpg,44,f,1.74,55,18.16620425
+NATASHA HENSTRIDGE.jpg,44,f,1.76,62,20.01549587
+LAURA HARRIS.jpg,41,f,1.68,56,19.84126984
+TAMARA FELDMAN.jpg,37,f,1.67,50,17.92821543
+KATE WINSLET.jpg,40,f,1.67,63,22.58955144
+JULIA STILES.jpg,37,f,1.71,58,19.83516296
+GARCELLE BEAUVAIS.jpg,51,f,1.72,60,20.2812331
+EDDIE GRIFFIN.jpg,50,m,1.7,76,26.29757785
+MARTIN LAWRENCE.jpg,53,m,1.7,75,25.95155709
+K. MICHELLE.jpg,36,f,1.54,60,25.29937595
+SMOKEY ROBINSON.jpg,78,m,1.79,82,25.59220998
+WILLOW SMITH.jpg,17,f,1.7,45,15.57093426
+JADEN SMITH.jpg,20,m,1.7,65,22.49134948
+NIA LONG.jpg,47,f,1.52,60,25.96952909
+K-CI HAILEY.jpg,49,m,1.72,75,25.35154137
+NICOLE JOHNSON.jpg,33,f,1.7,55,19.03114187
+CASE WOODARD.jpg,73,m,1.75,80,26.12244898
+JADA PINKETT-SMITH.jpg,47,f,1.51,48,21.05170826
+GUCCI MANE.jpg,38,m,1.88,95,26.87867813
+DANTE SPENCER.jpg,43,m,1.88,77,21.78587596
+GEORGE MICHAEL.jpg,53,m,1.8,86,26.54320988
+NICOLE ALEXANDER.jpg,35,f,1.57,58,23.53036634
+JANET JACKSON.jpg,52,f,1.61,58,22.37567995
+ZOË KRAVITZ.jpg,29,f,1.54,48,20.23950076
+LOGAN BROWNING.jpg,29,f,1.55,50,20.81165453
+JON FOSTER.jpg,34,m,1.82,80,24.1516725
+TAMEKA HARRIS.jpg,43,f,1.5,50,22.22222222
+BERNICE BURGOS.jpg,38,f,1.7,58,20.06920415
+KAREN ELSON.jpg,39,f,1.75,53,17.30612245
+LAURA PREPON.jpg,38,f,1.77,68,21.70512943
+JARED MURILLO.jpg,30,m,1.7,70,24.22145329
+MARTIN JOHNSON.jpg,33,m,1.82,78,23.54788069
+JENNIFER TISDALE.jpg,37,f,1.66,67,24.31412397
+SCOTT SPEER.jpg,36,m,1.86,85,24.56931437
+CHRISTOPHER FRENCH.jpg,55,m,1.84,75,22.1526465
+VICTORIA JUSTICE.jpg,25,f,1.65,48,17.63085399
+TASYA VAN REE.jpg,42,f,1.71,50,17.09927841
+SEAN FARIS.jpg,36,m,1.77,78,24.89706023
+MARK WYSTRACH.jpg,38,m,1.89,80,22.39578959
+VALENTINO LANUS.jpg,43,m,1.83,78,23.29122996
+ALEJANDRO GÓMEZ MONTEVERDE.jpg,41,m,1.78,77,24.30248706
+LENNY KRAVITZ.jpg,54,m,1.74,72,23.78121284
+FLORENT PAGNY.jpg,56,m,1.67,70,25.0995016
+SAMAIRE ARMSTRONG.jpg,37,f,1.61,55,21.21831719
+JENNA DANNEBERGER.jpg,29,f,1.75,50,16.32653061
+ELON MUSK.jpg,47,m,1.86,90,26.01456816
+ASH STYMEST.jpg,27,m,1.86,70,20.23355301
+ALYSSON PARADIS.jpg,34,f,1.58,55,22.03172568
+TAHIRY JOSE.jpg,39,f,1.57,60,24.34175829
+JOHN STAMOS.jpg,55,m,1.79,80,24.96800974
+CHANEL IMAN.jpg,27,f,1.78,48,15.14960232
+KENDRICK LAMAR.jpg,31,m,1.63,67,25.21735858
+AARON O'CONNELL.jpg,32,m,1.85,90,26.29656684
+ARSENIO HALL.jpg,62,m,1.79,75,23.40750913
+TEYANA TAYLOR.jpg,27,f,1.62,50,19.05197378
+SOPHIE BRUSSAUX.jpg,29,f,1.75,72,23.51020408
+2 CHAINZ.jpg,41,m,1.93,88,23.6247953
+ORLANDO BLOOM.jpg,41,m,1.79,77,24.03170937
+HILARY DUFF.jpg,31,f,1.54,56,23.61275089
+JOSEPH GORDON-LEVITT.jpg,37,m,1.75,72,23.51020408
+NICK CARTER.jpg,38,m,1.82,89,26.86873566
+HOSEA CHANCHEZ.jpg,37,m,1.85,83,24.25127831
+LIL WAYNE.jpg,36,m,1.65,68,24.97704316
+TOM JONES.jpg,78,m,1.77,90,28.72737719
+SOULJA BOY.jpg,28,m,1.72,68,22.98539751
+DEVON FRANKLIN.jpg,40,m,1.85,75,21.9138057
+PAUL WALKER.jpg,40,m,1.88,84,23.76641014
+M. POKORA.jpg,33,m,1.8,72,22.22222222
+THE-DREAM.jpg,41,m,1.68,80,28.3446712
+TOMMY MOTTOLA.jpg,70,m,1.73,87,29.06879615
+EMINEM.jpg,45,m,1.72,67,22.64737696
+BRETT RATNER.jpg,49,m,1.73,93,31.07354071
+ALI LOHAN.jpg,24,f,1.75,55,17.95918367
+SOPHIE DE RAKOFF.jpg,50,f,1.56,58,23.8330046
+STEPHANIE RICE.jpg,30,f,1.76,67,21.62964876
+GLYNN TURMAN.jpg,71,m,1.75,72,23.51020408
+WIN MCMURRY.jpg,35,f,1.65,55,20.2020202
+CHRISTIAN MONZON.jpg,41,m,1.88,81,22.91760978
+CARRIE PREJEAN.jpg,31,f,1.78,55,17.35891933
+MEGAN ROSSEE.jpg,31,f,1.78,57,17.99015276
+BRITTNY GASTINEAU.jpg,34,f,1.74,55,18.16620425
+CHRIS HOWARD.jpg,43,m,1.78,101,31.87728822
+GLENN CLOSE.jpg,71,f,1.63,66,24.84098009
+MADELINE FUHRMAN.jpg,25,f,1.57,53,21.50188649
+JOSH BURKMAN.jpg,38,m,1.78,77,24.30248706
+PERRIE EDWARD.jpg,25,f,1.6,54,21.09375
+OLIVIA CULPO.jpg,26,f,1.66,51,18.507766
+DAVID FOSTER.jpg,68,m,1.81,82,25.029761
+SHIVA SAFAI.jpg,38,f,1.6,55,21.484375
+FRANKIE GRANDE.jpg,35,m,1.73,68,22.72043837
+CARMEN ORTEGA.jpg,33,f,1.57,54,21.90758246
+STEVE HART.jpg,46,m,1.73,76,25.39343112
+ALEX DE RAKOFF.jpg,47,m,1.78,76,23.98687034
+MICHAEL EALY.jpg,45,m,1.77,78,24.89706023
+HILL HARPER.jpg,52,m,1.7,72,24.91349481
+SCOTT SPEEDMAN.jpg,43,m,1.73,75,25.05930703
+ADRIEN BRODY.jpg,45,m,1.82,70,21.13271344
+EPIC MAZUR.jpg,48,m,1.68,69,24.44727891
+NICK STAHL.jpg,38,m,1.77,75,23.93948099
+SHEMAR MOORE.jpg,48,m,1.82,85,25.66115203
+DAVE NAVARRO.jpg,51,m,1.75,76,24.81632653
+SEANN WILLIAM SCOTT.jpg,42,m,1.81,79,24.11403803
+JEREMY PIVEN.jpg,53,m,1.72,75,25.35154137
+KYLE MOONEY.jpg,34,m,1.7,74,25.60553633
+EMILY BUSTAMANTE.jpg,37,f,1.65,65,23.87511478
+CIARA.jpg,32,f,1.71,62,21.20310523
+JASON LEWIS.jpg,47,m,1.84,85,25.1063327
+TYRESE GIBSON.jpg,39,m,1.79,78,24.34380949
+JIMI HENDRIX.jpg,27,m,1.77,70,22.34351559
+KIEFER SUTHERLAND.jpg,51,m,1.74,76,25.10239133
+CARDI B.jpg,25,f,1.54,60,25.29937595
+SHANNON WOODWARD.jpg,33,f,1.54,50,21.08281329
+BRUCE WILLIS.jpg,63,m,1.8,84,25.92592593
+RUMER WILLIS.jpg,30,f,1.68,54,19.13265306
+SCOUT LARUE WILLIS.jpg,27,f,1.66,56,20.32225287
+TALLULAH WILLIS.jpg,24,f,1.63,58,21.8299522
+BLAKE LIVELY.jpg,31,f,1.74,60,19.81767737
+RACHEL MCADAMS.jpg,39,f,1.62,54,20.57613169
+SANDRA BULLOCK.jpg,54,f,1.7,50,17.30103806
+EVA MENDES.jpg,44,f,1.65,59,21.67125803
+AMELIA WARNER.jpg,36,f,1.67,53,19.00390835
+PINK.jpg,39,f,1.6,58,22.65625
+SHAR JACKSON.jpg,42,f,1.68,74,26.21882086
+ALICJA BACHLEDA-CURUS.jpg,35,f,1.68,54,19.13265306
+MICHELLE RODRIGUEZ.jpg,40,f,1.62,54,20.57613169
+KELLI GARNER.jpg,34,f,1.65,55,20.2020202
+DIANE GAETA MARSHALL-GREEN.jpg,38,f,1.67,57,20.43816558
+TOM HARDY.jpg,41,m,1.75,82,26.7755102
+MARISA TOMEI.jpg,53,f,1.61,55,21.21831719
+ART ROONEY II.jpg,68,m,1.75,78,25.46938776
+DAN ROONEY.jpg,89,m,1.62,65,24.76756592
+WELLINGTON MARA.jpg,89,m,1.85,90,26.29656684
+ANTHONY KIEDIS.jpg,55,m,1.72,77,26.02758248
+MICHAEL E. KNIGHT.jpg,59,m,1.85,87,25.42001461
+MARTHA PLIMPTON.jpg,47,f,1.62,54,20.57613169
+PETA WILSON.jpg,47,f,1.75,60,19.59183673
+SAMANTHA MATHIS.jpg,48,f,1.65,56,20.56932966
+CASEY AFFLECK.jpg,43,m,1.75,78,25.46938776
+DANIELLE SPENCER.jpg,49,f,1.58,50,20.02884153
+CHARLIE MCDOWELL.jpg,35,m,1.8,75,23.14814815
+VINCENT GALLO.jpg,57,m,1.76,75,24.21229339
+DAVID HASSELHOFF.jpg,66,m,1.93,87,23.35633171
+HOLLY VALANCE.jpg,35,f,1.7,65,22.49134948
+JEREMY IRVINE.jpg,28,m,1.81,74,22.58783309
+GREG JAMES.jpg,32,m,1.93,84,22.55094096
+SEBASTIAN LLETGET.jpg,26,m,1.78,75,23.67125363
+DONNIE WAHLBERG.jpg,49,m,1.77,78,24.89706023
+JOANNE MCCARTHY.jpg,43,f,1.7,72,24.91349481
+MELISSA MCCARTHY.jpg,48,f,1.57,94,38.13542132
+RYBACK.jpg,36,m,1.85,132,38.56829803
+MATTHEW SHIRE.jpg,43,m,1.75,84,27.42857143
+DEREK JETER.jpg,43,m,1.91,90,24.67037636
+KIM BASINGER.jpg,64,f,1.68,65,23.03004535
+ALEC BALDWIN.jpg,60,m,1.8,110,33.95061728
+GWEN STEFANI.jpg,49,f,1.67,55,19.72103697
+WLADIMIR KLITSCHKO.jpg,42,m,1.96,109,28.37359434
+FELICITY HUFFMAN.jpg,55,f,1.64,56,20.82093992
+JOHNNY MESSNER.jpg,48,m,1.81,85,25.94548396
+JOSH GROBAN.jpg,37,m,1.77,73,23.30109483
+AHMET ZAPPA.jpg,44,m,1.78,85,26.82742078
+HUNTER BURGAN.jpg,42,m,1.74,69,22.79032897
+MASHA NOVOSELOVA.jpg,33,f,1.75,55,17.95918367
+SEAN COMBS.jpg,48,m,1.77,80,25.53544639
+JOHN MARA.jpg,63,m,1.94,80,21.25624402
+MARC ANTHONY.jpg,50,m,1.67,65,23.30668005
+EMILY DESCHANEL.jpg,41,f,1.72,66,22.30935641
+CHARLOTTE CASIRAGHI.jpg,32,f,1.7,55,19.03114187
+CALEB DESCHANEL.jpg,74,m,1.85,76,22.20598977
+MIKE D'ABO.jpg,74,m,1.72,66,22.30935641
+MARIA SHARAPOVA.jpg,31,f,1.86,65,18.78829923
+TORI SPELLING.jpg,45,f,1.66,58,21.04804761
+MICK JAGGER.jpg,75,m,1.77,70,22.34351559
+HUGH HUDSON.jpg,82,m,1.72,98,33.12601406
+DICK EBERSOL.jpg,71,m,1.88,100,28.29334541
+ROSS WILSON.jpg,70,m,1.71,70,23.93898977
+DANIELLE PANABAKER.jpg,31,f,1.68,53,18.77834467
+SYLVESTER STALLONE.jpg,72,m,1.73,100,33.41240937
+BROOKE SHIELDS.jpg,53,f,1.79,70,21.84700852
+JENNIFER LAWRENCE.jpg,28,f,1.71,60,20.51913409
+MEGYN PRICE.jpg,47,f,1.67,58,20.79672989
+EVAN DANDO.jpg,51,m,1.92,75,20.34505208
+JON STEWART.jpg,65,m,1.68,78,27.63605442
+BARNABY CLAY.jpg,45,m,1.71,75,25.64891762
+JORDANA BREWSTER.jpg,38,f,1.68,55,19.48696145
+MONICA.jpg,37,f,1.72,60,20.2812331
+QUENTIN RICHARDSON.jpg,38,m,1.98,101,25.76267728
+ROBERT SMITH.jpg,59,m,1.77,80,25.53544639
+KURUPT.jpg,45,m,1.8,72,22.22222222
+USHER.jpg,39,m,1.72,70,23.66143862
+SASHA OBAMA.jpg,17,f,1.76,58,18.72417355
+SHANNEN DOHERTY.jpg,47,f,1.6,58,22.65625
+JACQUI AINSLEY.jpg,36,f,1.75,51,16.65306122
+NICOLE APPLETON.jpg,43,f,1.67,58,20.79672989
+NANCY JUVONEN.jpg,51,f,1.65,75,27.54820937
+CARLOS LEON.jpg,52,m,1.88,76,21.50294251
+WINONA RYDER.jpg,46,f,1.58,50,20.02884153
+RANDY QUAID.jpg,68,m,1.95,110,28.92833662
+JOAN CUSACK.jpg,55,f,1.74,65,21.46915048
+DENNIS QUAID.jpg,64,m,1.81,85,25.94548396
+ANN CUSACK.jpg,57,f,1.77,58,18.51319863
+DYLAN PENN.jpg,27,f,1.7,52,17.99307958
+DICK CUSACK.jpg,77,m,1.75,90,29.3877551
+JENNIFER LOVE HEWITT.jpg,39,f,1.57,65,26.37023814
+MEG RYAN.jpg,56,f,1.7,55,19.03114187
+ANDY SERKIS.jpg,54,m,1.7,76,26.29757785
+LEILA GEORGE D'ONOFRIO.jpg,26,f,1.75,53,17.30612245
+GINNIFER GOODWIN.jpg,40,f,1.65,60,22.03856749
+MARTIN SHEEN.jpg,78,m,1.67,87,31.19509484
+RENEE ESTEVEZ.jpg.jpg,51,f,1.69,65,22.75830678
+CHARLIE SHEEN.jpg,53,m,1.73,75,25.05930703
+HOLLY MIRANDA.jpg,36,f,1.68,58,20.54988662
+JANET SHEEN.jpg,74,f,1.62,73,27.81588173
+JOE ESTEVEZ.jpg,72,m,1.7,80,27.6816609
+KATE MARA.jpg,35,f,1.57,50,20.28479857
+ISABELLE CORNISH.jpg,24,f,1.72,56,18.92915089
+CONOR PRICE.jpg,16,m,1.69,70,24.50894577
+KAT DENNINGS.jpg,32,f,1.58,57,22.83287935
+ROBIN WRIGHT.jpg,52,f,1.66,59,21.41094498
+JILLIE MACK.jpg,60,f,1.65,50,18.36547291
+CAMILA GREY.jpg,36,f,1.65,58,21.30394858
+MANDY MOORE.jpg,34,f,1.77,60,19.15158479
+CHRIS WEBBER.jpg,45,m,2.06,115,27.09963239
+ERIK ASLA.jpg,54,m,1.9,82,22.71468144
+ULLA ANDERSSON.jpg,72,f,1.73,60,20.04744562
+PEGGY LIPTON.jpg,72,f,1.67,55,19.72103697
+QUINCY JONES III.jpg,49,m,1.72,85,28.73174689
+KIDADA JONES.jpg,44,f,1.69,57,19.95728441
+RASHIDA JONES.jpg,42,f,1.57,54,21.90758246
+RAY CHARLES.jpg,88,m,1.74,77,25.43268596
+HEIDI KLUM.jpg,45,f,1.75,50,16.32653061
+ELISABETTA GREGORACI.jpg,38,f,1.76,48,15.49586777
+STEPHEN GYLLENHAAL.jpg,69,m,1.85,80,23.37472608
+NAOMI FONER GYLLENHAAL.jpg,72,f,1.71,63,21.5450908
+DEVENDRA BANHART.jpg,37,m,1.8,74,22.83950617
+BENJAMIN MILLEPIED.jpg,41,m,1.78,68,21.46193662
+SIMON COWELL.jpg,59,m,1.72,84,28.39372634
+NAS.jpg,45,m,1.72,80,27.04164413
+JESSE PLEMONS.jpg,30,m,1.77,86,27.45060487
+OLIVIA POULET.jpg,40,f,1.77,58,18.51319863
+SOPHIE HUNTER.jpg,40,f,1.73,55,18.37682515
+TOM HIDDLESTON.jpg,37,m,1.87,75,21.44756785
+BILLY BOB THORNTON.jpg,63,m,1.77,64,20.42835711
+JENNY SHIMIZU.jpg,51,m,1.72,53,17.91508924
+JON VOIGHT.jpg,79,m,1.86,100,28.90507573
+JONNY LEE MILLER.jpg,45,m,1.77,78,24.89706023
+MATT DAMON.jpg,48,m,1.77,86,27.45060487
+CATE BLANCHETT.jpg,49,f,1.73,60,20.04744562
+JUSTIN THEROUX.jpg,43,m,1.75,72,23.51020408
+JOHN ANISTON.jpg,85,m,1.9,100,27.70083102
+JOSH HARTNETT.jpg,40,m,1.89,84,23.51557907
+DESMOND HARRINGTON.jpg,41,m,1.8,71,21.91358025
+LEONARDO DICAPRIO.jpg,43,m,1.81,80,24.41927902
+AARON PAUL.jpg,39,m,1.71,70,23.93898977
+VANESSA PARADIS.jpg,45,f,1.6,54,21.09375
+AMBER HEARD.jpg,32,f,1.7,62,21.4532872
+LILY-ROSE DEPP.jpg,19,f,1.6,46,17.96875
+JOSH HUTCHERSON.jpg,25,m,1.65,65,23.87511478
+AUSTIN BUTLER.jpg,27,m,1.81,68,20.75638717
+ASHLEY TISDALE.jpg,33,f,1.58,49,19.6282647
+JAKE HOFFMAN.jpg,37,m,1.7,70,24.22145329
+BEN FOSTER.jpg,37,m,1.72,78,26.36560303
+PLAYBOI CARTI.jpg,22,m,1.85,73,21.32943755
+TYGA.jpg,28,m,1.7,70,24.22145329
+TIP T.I. HARRIS.jpg,38,m,1.72,70,23.66143862
+PAULA ABDUL.jpg,56,f,1.52,48,20.77562327
+ASAP ROCKY.jpg,30,m,1.77,72,22.98190175
+NATALIE PACK.jpg,29,f,1.8,50,15.43209877
+MICHAEL PHELPS.jpg,33,m,1.89,88,24.63536855
+R. KELLY.jpg,51,m,1.85,91,26.58875091
+ARETHA FRANKLIN.jpg,76,f,1.65,70,25.71166208
+WILL SMITH.jpg,50,m,1.86,82,23.7021621
+MARIAH CAREY.jpg,48,f,1.7,65,22.49134948
+CHRISTINA MILIAN.jpg,37,f,1.57,54,21.90758246
+MEAGAN GOOD.jpg,37,f,1.57,57,23.12467037
+BRITTANY BELL.jpg,30,f,1.75,56,18.28571429
+LINDSAY LOHAN.jpg,32,f,1.64,50,18.59012493
+MONET MAZUR.jpg,42,f,1.72,55,18.59113034
+JANUARY JONES.jpg,40,f,1.67,56,20.07960128
+ASHLEY SCOTT.jpg,41,f,1.71,55,18.80920625
+BOB DYLAN.jpg,77,m,1.68,67,23.73866213
+ISRAEL HOUGHTON.jpg,47,m,1.67,80,28.68514468
+LEBRON JAMES.jpg,33,m,2.01,111,27.47456746
+FABOLOUS.jpg,40,m,1.8,77,23.7654321
+TARAJI P. HENSON.jpg,48,f,1.62,60,22.86236854
+FUTURE.jpg,34,m,1.88,87,24.6152105
+TEDDY GEIGER.jpg,30,f,1.8,69,21.2962963
+DAVE MCCARY.jpg,33,m,2.01,79,19.55397144
+STEPHEN MOYER.jpg,48,m,1.75,75,24.48979592
+LOGAN MARSHALL-GREEN.jpg,49,m,1.79,79,24.65590962
+ANDREW PAQUIN.jpg,41,m,1.82,84,25.35925613
+COLIN FARRELL.jpg,42,m,1.77,80,25.53544639
+KEVIN FEDERLINE.jpg,40,m,1.83,95,28.36752366
+JAMIE LYNN SPEARS.jpg,27,f,1.62,55,20.95717116
+RYAN GOSLING.jpg,37,m,1.83,78,23.29122996
+DEMI MOORE.jpg,55,f,1.63,54,20.32443826
+ANDREW GARFIELD.jpg,35,m,1.79,75,23.40750913
+MIKE TODD.jpg,48,m,1.66,72,26.12861083
+BYRON THAMES.jpg,79,m,1.75,74,24.16326531
+RUSSELL CROWE.jpg,54,m,1.79,95,29.64951156
+HEATHER CHRISTIE.jpg,32,f,1.75,52,16.97959184
+RIVER PHOENIX.jpg,23,m,1.77,72,22.98190175
+LIBERTY PHOENIX.jpg,42,f,1.69,60,21.0076678
+RAIN PHOENIX.jpg,45,f,1.58,58,23.23345618
+SUMMER PHOENIX.jpg,39,f,1.62,55,20.95717116
+ROONEY MARA.jpg,33,f,1.6,49,19.140625
+JENNIFER LOPEZ.jpg,49,f,1.63,55,20.70081674
+JACQUES LEIBOWITCH.jpg,76,m,1.75,98,32
+D. DAVID MORIN.jpg,63,m,1.91,100,27.41152929
+DIMITRI RASSAM.jpg,36,m,1.89,85,23.79552644
+ZOOEY DESCHANEL.jpg,38,f,1.65,55,20.2020202
+SELMA BLAIR.jpg,46,f,1.58,52,20.82999519
+DOMINIQUE SWAIN.jpg,38,f,1.67,55,19.72103697
+CHELSE SWAIN.jpg,35,f,1.64,60,22.30814991
+ZOEY GROSSMAN.jpg,34,f,1.7,55,19.03114187
+SARATH TON.jpg,35,m,1.68,68,24.09297052
+RUTGER HAUER.jpg,74,f,1.8,76,23.45679012
+JENNY MCCARTHY.jpg,45,f,1.67,56,20.07960128
+PITBULL.jpg,37,m,1.71,75,25.64891762
+BECKY G.jpg,21,f,1.51,48,21.05170826
+ELLIE GOULDING.jpg,31,f,1.62,56,21.33821064
+OLYMPIA VALANCE.jpg,25,f,1.65,55,20.2020202
+JULIAN LENNON.jpg,55,m,1.73,80,26.7299275
+MARYAM D'ABO.jpg,57,f,1.68,53,18.77834467
+CHARLIE EBERSOL.jpg,35,m,1.88,80,22.63467632
+SUSAN SAINT JAMES.jpg,72,f,1.71,64,21.88707637
+SAM SPIEGEL.jpg,48,m,1.73,75,25.05930703
+JULIANA HATFIELD.jpg,51,f,1.7,50,17.30103806
+KAREN O.jpg,39,f,1.68,55,19.48696145
+BILL LAWRENCE.jpg,49,m,1.88,83,23.48347669
+LIL KIM.jpg,44,f,1.46,59,27.67873898
+BRANDY NORWOOD.jpg,39,f,1.7,52,17.99307958
+GUY RITCHIE.jpg,50,m,1.78,87,27.45865421
+LOURDES CICCONE LEON.jpg,21,f,1.7,58,20.06920415
+MO FARAH.jpg,35,m,1.72,57,19.26717144
+CORNEL WILDE.jpg,74,m,1.85,75,21.9138057
+CAITLYN JENNER.jpg,68,f,1.85,88,25.71219869
+STEPHANIE RICE.jpg.jpg,65,m,1.8,79,24.38271605
+JORDON STREET.jpg,33,m,1.78,75,23.67125363
+HUSTON STREET.jpg,35,m,1.83,93,27.77031264
+KYRIE IRVING.jpg,26,m,1.91,88,24.12214577
+DWIGHT HOWARD.jpg,32,m,2.11,120,26.95357247
+KAREEM ABDUL-JABBAR.jpg,78,m,2.18,120,25.2503998
+AARON GORDON.jpg,23,m,2.06,100,23.56489773
+IMAN SHUMPERT.jpg,28,m,1.96,101,26.2911287
+DWYANE WADE.jpg,36,m,1.92,96,26.04166667
+HAKEEM OLAJUWON.jpg,55,m,2.08,116,26.81213018
+IAN WHYTE.jpg,47,m,2.16,118,25.2914952
+NICK YOUNG.jpg,33,m,2.01,95,23.51426945
+TRISTAN THOMPSON.jpg,27,m,2.03,108,26.20786721
+LAMAR ODOM.jpg,38,m,2.08,104,24.03846154
+KRIS HUMPHRIES.jpg,33,m,2.06,106,24.97879159
+KAI GREENE.jpg,43,m,1.73,124,41.43138762
+ARNOLD SCHWARZENEGGER.jpg,71,m,1.81,111,33.88174964
+MUHAMMAD ALI.jpg,74,m,1.89,107,29.95436858
+NIKOLAI VALUEV.jpg,45,m,2.13,150,33.0622231
+JACK O'HALLORAN.jpg,75,m,1.98,102,26.01775329
+JACK PALANCE.jpg,87,m,1.91,80,21.92922343
+FLOYD MAYWEATHER SR..jpg,65,m,1.73,67,22.38631428
+LAILA ALI.jpg,40,f,1.78,79,24.93372049
+FLOYD MAYWEATHER JR..jpg,41,m,1.71,68,23.25501864
+OSCAR DE LA HOYA.jpg,45,m,1.75,76,24.81632653
+MANNY PACQUIAO.jpg,39,m,1.66,64,23.22543185
+JEFF HORN.jpg,30,m,1.75,63,20.57142857
+BOBBY FISCHER.jpg,64,m,1.85,75,21.9138057
+COLIN KAEPERNICK.jpg,30,m,1.94,104,27.63311723
+JAMES STREET.jpg,65,m,1.8,79,24.38271605
+FRED DRYER.jpg,72,m,1.98,110,28.05836139
+VICTOR CRUZ.jpg,31,m,1.83,92,27.47170713
+REGGIE BUSH.jpg,33,m,1.83,92,27.47170713
+JACK NICKLAUS.jpg,78,m,1.73,86,28.73467206
+GARY WOODLAND.jpg,34,m,1.85,88,25.71219869
+HANK KUEHNE.jpg,43,m,1.88,93,26.31281123
+BRAD PELTZ.jpg,29,m,1.85,83,24.25127831
+WILL PELTZ.jpg,32,f,1.83,77,22.99262444
+CONOR MCGREGOR.jpg,30,m,1.74,77,25.43268596
+CAIN VELASQUEZ.jpg,36,m,1.85,109,31.84806428
+KANE KOSUGI.jpg,44,m,1.82,79,23.8497766
+IKER CASILLAS.jpg,37,m,1.81,80,24.41927902
+GARETH BALE.jpg,29,m,1.84,76,22.44801512
+CRISTIANO RONALDO.jpg,33,m,1.85,83,24.25127831
+FRANK LAMPARD.jpg,40,m,1.83,91,27.17310162
+KARIM BENZEMA.jpg,30,m,1.82,80,24.1516725
+SERENA WILLIAMS.jpg,37,f,1.75,70,22.85714286
+NOVAK DJOKOVIC.jpg,31,m,1.86,80,23.12406059
+VENUS WILLIAMS.jpg,34,f,1.84,75,22.1526465
+IVO KARLOVIC.jpg,39,m,2.11,104,23.35976281
+DWAYNE JOHNSON.jpg,46,m,1.89,100,27.99473699
+NIKKI BELLA.jpg,34,f,1.68,57,20.19557823
+AJ LEE.jpg,31,f,1.57,54,21.90758246
+SASHA BANKS.jpg,26,f,1.65,52,19.10009183
+EDDIE GUERRERO.jpg,38,m,1.73,100,33.41240937
+AJ STYLES.jpg,40,m,1.73,99,33.07828528
+HULK HOGAN.jpg,65,m,1.98,133,33.92510968
+KANE (GLENN JACOBS).jpg,51,m,2.01,140,34.65260761
+DALIP SINGH RANA.jpg,46,m,2.16,157,33.6505487
+CONAN STEVENS.jpg,48,m,2.14,145,31.6621539
+KURT ANGLE.jpg,49,m,1.77,100,31.91930799
+DRAKE.jpg,31,m,1.82,78,23.54788069
+G-EAZY.jpg,29,m,1.92,83,22.51519097
+J COLE.jpg,33,m,1.89,91,25.47521066
+MACHINE GUN KELLY.jpg,28,m,1.91,76,20.83276226
+DR. DRE.jpg,53,m,1.84,79,23.33412098
+KANYE WEST.jpg,41,m,1.73,75,25.05930703
+IGGY AZALEA.jpg,28,f,1.77,68,21.70512943
+LADY SOVEREIGN.jpg,32,f,1.56,46,18.90203813
+WIZ KHALIFA.jpg,39,m,1.89,74,20.71610537
+21 SAVAGE.jpg,25,m,1.82,72,21.73650525
+RAY J.jpg,37,m,1.7,74,25.60553633
+NICK CANNON.jpg,38,m,1.79,75,23.40750913
+SEAN PRICE.jpg,43,m,1.9,120,33.24099723
+ICE CUBE.jpg,49,m,1.73,84,28.06642387
+NICKI MINAJ.jpg,35,f,1.57,62,25.15315023
+SNOOP DOGG.jpg,46,m,1.92,75,20.34505208
+POST MALONE.jpg,23,m,1.84,88,25.99243856
+BIRDMAN.jpg,48,m,1.73,84,28.06642387
+FETTY WAP.jpg,27,m,1.84,70,20.6758034
+JA RULE.jpg,41,m,1.72,75,25.35154137
+50 CENT.jpg,43,m,1.82,93,28.07631929
+COOLIO.jpg,55,m,1.73,85,28.40054796
+COMMON.jpg,46,m,1.83,85,25.38146854
+FRANK OCEAN.jpg,30,m,1.8,75,23.14814815
+FRENCH MONTANA.jpg,33,m,1.85,89,26.00438276
+YASIIN BEY (MOS DEF).jpg,44,m,1.75,76,24.81632653
+MISSY ELLIOT.jpg,74,f,1.54,68,28.67262608
+OMARION.jpg,33,m,1.65,75,27.54820937
+OMAR EPPS.jpg,45,m,1.77,79,25.21625331
+T-PAIN.jpg,33,m,1.72,86,29.06976744
+YUNG JOC.jpg,35,m,1.73,86,28.73467206
+JAY-Z.jpg,48,m,1.86,86,24.85836513
+ABBIE CORNISH.jpg,36,f,1.7,60,20.76124567
+FLO RIDA.jpg,39,m,1.88,95,26.87867813
+IDRIS ELBA.jpg,46,m,1.9,97,26.86980609
+PARIS HILTON.jpg,37,f,1.73,55,18.37682515
+MARC COPPOLA.jpg,60,m,1.82,80,24.1516725
+ALLIE TEILZ.jpg,24,f,1.69,54,18.90690102
+CALVIN HARRIS.jpg,54,m,1.97,93,23.96351362
+MOBY.jpg,53,m,1.7,68,23.52941176
+JULIE NEWMAR.jpg,85,f,1.8,61,18.82716049
+FRED ASTAIRE.jpg,88,m,1.75,61,19.91836735
+CYD CHARISSE.jpg,86,f,1.68,52,18.42403628
+CONSTANCE MARIE.jpg,53,f,1.64,56,20.82093992
+LACEY SCHWIMMER.jpg,30,f,1.6,60,23.4375
+MISTY COPELAND.jpg,36,f,1.57,50,20.28479857
+FKA TWIGS.jpg,30,f,1.59,50,19.77769867
+CORBIN BLEU.jpg,29,m,1.73,78,26.06167931
+DULE HILL.jpg,43,m,1.78,80,25.2493372
+DREW LACHEY.jpg,42,m,1.66,70,25.40281608
+GENE KELLY.jpg,83,m,1.71,70,23.93898977
+KARINA SMIRNOFF.jpg,40,f,1.63,55,20.70081674
+EMMA PORTNER.jpg,23,f,1.6,52,20.3125
+JAMIE BELL.jpg,32,m,1.7,68,23.52941176
+CASSIE VENTURA.jpg,32,f,1.67,54,19.36247266
+DIAHNNE ABBOTT.jpg,73,f,1.7,80,27.6816609
+1 (1).jpg,31,m,1.77,85.5,27.29100833
+1 (2).jpg,34,m,1.74,72.4,23.91333069
+1 (3).jpg,34,m,1.68,65.7,23.27806122
+1 (4).jpg,36,m,1.76,111.2,35.89876033
+1 (5).jpg,24,f,1.62,59,22.48132907
+1 (6).jpg,22,m,1.8,78.9,24.35185185
+1 (7).jpg,20,m,1.71,62.4,21.33989946
+1 (8).jpg,19,f,1.68,55.5,19.66411565
+1 (9).jpg,29,m,1.75,69,22.53061224
+1 (10).jpg,33,f,1.53,49.6,21.1884318
+1 (11).jpg,30,m,1.78,95,29.98358793
+1 (12).jpg,53,m,1.68,84.5,29.93905896
+1 (13).jpg,32,m,1.85,91.2,26.64718773
+1 (14).jpg,28,m,1.63,66,24.84098009
+1 (15).jpg,23,f,1.65,79.2,29.09090909
+1 (16).jpg,48,f,1.6,80.6,31.484375
+1 (17).jpg,21,m,1.68,70.3,24.90787982
+1 (18).jpg,28,m,1.73,80,26.7299275
+1 (19).jpg,25,f,1.65,60.8,22.33241506
+1 (20).jpg,25,f,1.6,60.4,23.59375
+1 (21).jpg,31,f,1.64,61,22.67995241
+1 (22).jpg,25,m,1.68,70.9,25.12046485
+1 (23).jpg,29,m,1.77,87.1,27.80171726
+1 (24).jpg,27,m,1.86,90.6,26.18799861
+1 (25).jpg,37,m,1.8,86,26.54320988
+1 (26).jpg,24,m,1.74,72.1,23.8142423
+1 (27).jpg,26,f,1.59,63.1,24.95945572
+1 (28).jpg,37,f,1.54,54.5,22.98026649
+aish102a.jpg,27,m,1.8,116,35.80246914
+aish102b.jpg,27,m,1.8,127,39.19753086
+aish103a.jpg,19,m,1.88,116,32.82028067
+aish103b.jpg,19,m,1.88,137,38.76188321
+aish105a.jpg,28,f,1.7,116,40.1384083
+aish108a.jpg,23,f,1.78,115,36.29592223
+aish112a.jpg,21,m,1.93,114,30.60484845
+aish113a.jpg,21,f,1.73,113,37.75602259
+aish118a.jpg,34,m,1.83,113,33.74242289
+aish123a.jpg,26,m,1.83,113,33.74242289
+aish124a.jpg,28,m,1.85,113,33.01680058
+aish124b.jpg,28,m,1.85,147,42.95105917
+aish125a.jpg,20,m,1.93,113,30.33638487
+aish129a.jpg,21,m,1.85,112,32.72461651
+aish129b.jpg,21,m,1.85,119,34.76990504
+aish132a.jpg,28,m,1.83,112,33.44381737
+aish132b.jpg,28,m,1.83,125,37.32568903
+aish133a.jpg,25,m,1.8,111,34.25925926
+aish134a.jpg,20,m,1.8,111,34.25925926
+aish138a.jpg,31,m,1.85,111,32.43243243
+aish139a.jpg,31,m,1.83,111,33.14521186
+aish139b.jpg,31,m,1.83,143,42.70058825
+aish13a.jpg,25,m,1.98,150,38.2614019
+aish142a.jpg,48,m,1.7,111,38.4083045
+aish144a.jpg,17,m,1.98,111,28.3134374
+aish144b.jpg,17,m,1.98,127,32.39465361
+aish147a.jpg,48,m,1.7,111,38.4083045
+aish148a.jpg,26,m,1.93,111,29.7994577
+aish148b.jpg,26,m,1.93,124,33.28948428
+aish151a.jpg,38,m,1.73,110,36.75365031
+aish152a.jpg,21,m,1.83,110,32.84660635
+aish154a.jpg,21,m,1.8,109,33.64197531
+aish154b.jpg,21,m,1.8,130,40.12345679
+aish158a.jpg,23,m,1.75,109,35.59183673
+aish158b.jpg,23,m,1.75,120,39.18367347
+aish162a.jpg,18,m,1.88,109,30.83974649
+aish162b.jpg,18,m,1.88,143,40.45948393
+aish164a.jpg,33,m,1.88,109,30.83974649
+aish169a.jpg,23,f,1.65,108,39.66942149
+aish178a.jpg,30,m,1.85,107,31.26369613
+aish181a.jpg,19,f,1.65,107,39.30211203
+aish184a.jpg,39,f,1.65,107,39.30211203
+aish190a.jpg,24,f,1.73,107,35.75127802
+aish191a.jpg,27,f,1.78,107,33.77098851
+aish191b.jpg,27,f,1.78,125,39.45208938
+aish196a.jpg,33,m,1.75,105,34.28571429
+aish200a.jpg,30,m,1.98,105,26.78298133
+aish200b.jpg,30,m,1.98,160,40.81216202
+aish201a.jpg,20,f,1.73,105,35.08302984
+aish201b.jpg,20,f,1.73,116,38.75839487
+aish202a.jpg,30,m,1.93,105,28.18867621
+aish203a.jpg,26,m,1.91,104,28.50799046
+aish203b.jpg,26,m,1.91,120,32.89383515
+aish206a.jpg,23,m,1.78,104,32.82413837
+aish206b.jpg,23,m,1.78,125,39.45208938
+aish207a.jpg,23,m,1.83,104,31.05497327
+aish208a.jpg,23,m,1.96,104,27.07205331
+aish20a.jpg,32,m,1.93,141,37.85336519
+aish213a.jpg,19,m,1.91,104,28.50799046
+aish215a.jpg,40,m,1.91,104,28.50799046
+aish216a.jpg,28,f,1.68,104,36.84807256
+aish220a.jpg,37,m,1.85,104,30.3871439
+aish220b.jpg,37,m,1.85,126,36.81519357
+aish221a.jpg,30,f,1.7,104,35.98615917
+aish223a.jpg,29,m,1.91,104,28.50799046
+aish223b.jpg,29,m,1.91,152,41.66552452
+aish224a.jpg,21,m,1.78,104,32.82413837
+aish226a.jpg,21,f,1.6,103,40.234375
+aish227a.jpg,20,m,1.93,103,27.65174904
+aish227b.jpg,20,m,1.93,127,34.09487503
+aish228a.jpg,29,m,1.91,103,28.23387517
+aish230a.jpg,22,f,1.75,103,33.63265306
+aish230b.jpg,22,f,1.75,131,42.7755102
+aish232a.jpg,39,m,1.96,103,26.81174511
+aish235a.jpg,28,m,1.78,103,32.50852165
+aish236a.jpg,22,f,1.73,103,34.41478165
+aish237a.jpg,25,m,1.83,103,30.75636776
+aish237b.jpg,25,m,1.83,110,32.84660635
+aish242a.jpg,29,f,1.68,102,36.13945578
+aish243a.jpg,36,m,1.88,102,28.85921231
+aish244a.jpg,23,m,1.88,102,28.85921231
+aish245a.jpg,28,m,1.93,102,27.38328546
+aish246a.jpg,31,m,1.83,102,30.45776225
+aish246b.jpg,31,m,1.83,137,40.90895518
+aish255a.jpg,21,m,1.85,101,29.51059167
+aish256a.jpg,28,m,1.75,101,32.97959184
+aish259a.jpg,19,m,1.88,101,28.57627886
+aish25a.jpg,21,m,1.78,136,42.92387325
+aish260a.jpg,31,f,1.75,101,32.97959184
+aish260b.jpg,31,f,1.75,121,39.51020408
+aish261a.jpg,27,m,1.75,101,32.97959184
+aish261b.jpg,27,m,1.75,129,42.12244898
+aish266a.jpg,18,m,1.85,100,29.2184076
+aish266b.jpg,18,m,1.85,127,37.10737765
+aish267a.jpg,24,m,1.96,100,26.03082049
+aish267b.jpg,24,m,1.96,145,37.74468971
+aish270a.jpg,23,m,1.96,100,26.03082049
+aish273a.jpg,19,m,1.93,100,26.84635829
+aish274a.jpg,51,m,1.75,100,32.65306122
+aish274b.jpg,51,m,1.75,127,41.46938776
+aish277a.jpg,28,m,1.75,100,32.65306122
+aish277b.jpg,28,m,1.75,107,34.93877551
+aish287a.jpg,21,m,1.83,99,29.56194571
+aish294a.jpg,24,m,1.88,98,27.7274785
+aish294b.jpg,24,m,1.88,111,31.4056134
+aish309a.jpg,30,m,1.8,98,30.24691358
+aish309b.jpg,30,m,1.8,109,33.64197531
+aish31a.jpg,22,m,1.83,134,40.01313864
+aish325a.jpg,32,f,1.78,98,30.93043808
+aish326a.jpg,26,m,1.88,98,27.7274785
+aish327a.jpg,22,m,1.93,98,26.30943113
+aish327b.jpg,22,m,1.93,116,31.14177562
+aish332a.jpg,27,m,1.83,98,29.2633402
+aish332b.jpg,27,m,1.83,141,42.10337723
+aish36a.jpg,28,m,1.85,132,38.56829803
+aish37a.jpg,25,m,1.78,132,41.66140639
+aish397a.jpg,26,m,1.85,94,27.46530314
+aish397b.jpg,26,m,1.85,127,37.10737765
+aish41a.jpg,28,m,1.75,129,42.12244898
+aish44a.jpg,28,m,1.93,128,34.36333861
+aish47a.jpg,25,m,1.91,127,34.8126422
+aish47b.jpg,25,m,1.91,154,42.21375511
+aish48a.jpg,21,m,1.78,127,40.08332281
+aish50a.jpg,30,m,1.83,127,37.92290006
+aish51a.jpg,23,m,1.93,127,34.09487503
+aish51b.jpg,23,m,1.93,159,42.68570968
+aish52a.jpg,31,m,1.96,127,33.05914202
+aish52b.jpg,31,m,1.96,145,37.74468971
+aish56a.jpg,18,m,1.88,125,35.36668176
+aish56b.jpg,18,m,1.88,142,40.17655048
+aish57a.jpg,19,m,1.93,125,33.55794786
+aish57b.jpg,19,m,1.93,143,38.39029236
+aish60a.jpg,28,m,1.78,124,39.13647267
+aish61a.jpg,28,m,1.75,123,40.16326531
+aish66a.jpg,23,m,1.85,122,35.64645727
+aish70a.jpg,34,m,1.8,122,37.65432099
+aish70b.jpg,34,m,1.8,136,41.97530864
+aish75a.jpg,30,m,2.01,120,29.70223509
+aish76a.jpg,23,f,1.75,120,39.18367347
+aish83a.jpg,19,m,1.8,118,36.41975309
+aish84a.jpg,28,f,1.91,118,32.34560456
+aish84b.jpg,28,f,1.91,150,41.11729393
+aish85a.jpg,26,m,1.83,118,35.23545045
+aish85b.jpg,26,m,1.83,143,42.70058825
+aish87b.jpg,24,m,1.85,136,39.73703433
+aish88a.jpg,26,m,1.88,118,33.38614758
+aish89a.jpg,27,m,1.96,118,30.71636818
+aish89b.jpg,27,m,1.96,136,35.40191587
+aish92a.jpg,30,f,1.7,117,40.48442907
+aish93a.jpg,27,m,1.85,117,34.18553689
+aish94a.jpg,23,m,1.8,117,36.11111111
+aish95a.jpg,34,m,1.8,117,36.11111111
+aish95b.jpg,34,m,1.8,133,41.04938272
+aish98a.jpg,27,m,1.98,116,29.58881747
+aish99a.jpg,31,m,1.78,116,36.61153895
+aish99b.jpg,31,m,1.78,120,37.87400581
+dev1612_0.jpg,29,f,1.75,73,23.83673469
+dev1612_1.jpg,29,f,1.75,114,37.2244898
+dev1613_0.jpg,24,m,1.75,73,23.83673469
+dev1613_1.jpg,24,m,1.75,102,33.30612245
+dev1622_0.jpg,20,f,1.63,73,27.47562949
+dev1622_1.jpg,20,f,1.63,90,33.87406376
+dev1623_0.jpg,20,m,1.68,73,25.86451247
+dev1623_1.jpg,20,m,1.68,98,34.72222222
+dev1626_0.jpg,22,m,1.7,73,25.25951557
+dev1626_1.jpg,22,m,1.7,82,28.37370242
+dev1630_0.jpg,22,m,1.68,73,25.86451247
+dev1630_1.jpg,22,m,1.68,88,31.17913832
+dev1632_0.jpg,25,f,1.65,73,26.81359045
+dev1632_1.jpg,25,f,1.65,100,36.73094582
+dev1633_0.jpg,22,m,1.78,73,23.0400202
+dev1633_1.jpg,22,m,1.78,82,25.88057064
+dev1635_0.jpg,42,m,1.73,73,24.39105884
+dev1635_1.jpg,42,m,1.73,81,27.06405159
+dev1636_0.jpg,26,m,1.85,73,21.32943755
+dev1636_1.jpg,26,m,1.85,82,23.95909423
+dev1638_0.jpg,22,m,1.7,73,25.25951557
+dev1638_1.jpg,22,m,1.7,95,32.87197232
+dev1640_0.jpg,32,m,1.75,73,23.83673469
+dev1640_1.jpg,32,m,1.75,98,32
+dev1642_0.jpg,26,m,1.73,73,24.39105884
+dev1642_1.jpg,26,m,1.73,86,28.73467206
+dev1645_0.jpg,29,m,1.73,73,24.39105884
+dev1645_1.jpg,29,m,1.73,104,34.74890574
+dev1648_0.jpg,30,m,1.75,73,23.83673469
+dev1648_1.jpg,30,m,1.75,84,27.42857143
+dev1651_0.jpg,21,m,1.8,73,22.5308642
+dev1651_1.jpg,21,m,1.8,82,25.30864198
+dev1652_0.jpg,20,m,1.88,73,20.65414215
+dev1652_1.jpg,20,m,1.88,91,25.74694432
+dev1653_0.jpg,24,m,1.75,73,23.83673469
+dev1653_1.jpg,24,m,1.75,91,29.71428571
+dev1654_0.jpg,21,m,1.78,73,23.0400202
+dev1654_1.jpg,21,m,1.78,104,32.82413837
+dev1656_0.jpg,24,m,1.78,73,23.0400202
+dev1656_1.jpg,24,m,1.78,105,33.13975508
+dev1658_0.jpg,25,f,1.65,73,26.81359045
+dev1658_1.jpg,25,f,1.65,109,40.03673095
+dev1659_0.jpg,24,f,1.83,73,21.79820239
+dev1659_1.jpg,24,f,1.83,95,28.36752366
+dev1661_0.jpg,17,m,1.78,73,23.0400202
+dev1661_1.jpg,17,m,1.78,110,34.71783866
+dev1662_0.jpg,29,f,1.73,73,24.39105884
+dev1662_1.jpg,29,f,1.73,114,38.09014668
+dev1663_0.jpg,32,m,1.7,73,25.25951557
+dev1663_1.jpg,32,m,1.7,98,33.9100346
+dev1664_0.jpg,23,m,1.8,73,22.5308642
+dev1664_1.jpg,23,m,1.8,82,25.30864198
+dev1667_0.jpg,23,f,1.65,73,26.81359045
+dev1667_1.jpg,23,f,1.65,100,36.73094582
+dev1669_0.jpg,21,f,1.75,73,23.83673469
+dev1669_1.jpg,21,f,1.75,86,28.08163265
+dev1673_1.jpg,22,m,1.8,100,30.86419753
+dev1675_0.jpg,19,m,1.75,73,23.83673469
+dev1679_0.jpg,21,m,1.78,73,23.0400202
+dev1679_1.jpg,21,m,1.78,75,23.67125363
+dev1682_0.jpg,29,f,1.73,73,24.39105884
+dev1682_1.jpg,29,f,1.73,78,26.06167931
+dev1683_0.jpg,20,m,1.83,73,21.79820239
+dev1683_1.jpg,20,m,1.83,86,25.68007405
+dev1684_0.jpg,25,m,1.78,73,23.0400202
+dev1684_1.jpg,25,m,1.78,75,23.67125363
+dev1685_0.jpg,28,m,1.75,73,23.83673469
+dev1685_1.jpg,28,m,1.75,75,24.48979592
+dev1686_0.jpg,33,m,1.8,73,22.5308642
+dev1686_1.jpg,33,m,1.8,93,28.7037037
+dev1692_0.jpg,22,m,1.7,73,25.25951557
+dev1692_1.jpg,22,m,1.7,97,33.56401384
+dev1694_0.jpg,22,f,1.68,73,25.86451247
+dev1694_1.jpg,22,f,1.68,96,34.01360544
+dev1697_0.jpg,20,f,1.65,73,26.81359045
+dev1697_1.jpg,20,f,1.65,77,28.28282828
+dev1700_0.jpg,26,m,1.78,73,23.0400202
+dev1700_1.jpg,26,m,1.78,79,24.93372049
+dev1701_0.jpg,22,f,1.65,73,26.81359045
+dev1706_0.jpg,26,m,1.78,72,22.72440348
+dev1706_1.jpg,26,m,1.78,124,39.13647267
+dev1707_0.jpg,19,f,1.6,72,28.125
+dev1707_1.jpg,19,f,1.6,91,35.546875
+dev1708_0.jpg,29,f,1.63,72,27.09925101
+dev1714_0.jpg,21,f,1.68,72,25.51020408
+dev1714_1.jpg,21,f,1.68,82,29.05328798
+dev1717_0.jpg,24,m,1.78,72,22.72440348
+dev1717_1.jpg,24,m,1.78,84,26.51180407
+dev1718_0.jpg,19,m,1.8,72,22.22222222
+dev1718_1.jpg,19,m,1.8,82,25.30864198
+dev1720_0.jpg,18,f,1.68,72,25.51020408
+dev1720_1.jpg,18,f,1.68,119,42.16269841
+dev1723_0.jpg,33,f,1.68,72,25.51020408
+dev1723_1.jpg,33,f,1.68,113,40.03684807
+dev1726_0.jpg,21,f,1.63,72,27.09925101
+dev1726_1.jpg,21,f,1.63,91,34.25044224
+dev1728_0.jpg,30,f,1.63,72,27.09925101
+dev1728_1.jpg,30,f,1.63,79,29.73390041
+dev1733_0.jpg,17,m,1.75,72,23.51020408
+dev1733_1.jpg,17,m,1.75,75,24.48979592
+dev1736_0.jpg,23,f,1.7,72,24.91349481
+dev1736_1.jpg,23,f,1.7,94,32.52595156
+dev1740_0.jpg,24,m,1.78,72,22.72440348
+dev1740_1.jpg,24,m,1.78,73,23.0400202
+dev1745_0.jpg,16,m,1.83,72,21.49959688
+dev1745_1.jpg,16,m,1.83,81,24.18704649
+dev1747_0.jpg,21,f,1.75,72,23.51020408
+dev1747_1.jpg,21,f,1.75,122,39.83673469
+dev1748_0.jpg,28,m,1.65,72,26.44628099
+dev1748_1.jpg,28,m,1.65,115,42.2405877
+dev1754_0.jpg,37,m,1.8,72,22.22222222
+dev1754_1.jpg,37,m,1.8,108,33.33333333
+dev1759_0.jpg,25,m,1.8,71,21.91358025
+dev1759_1.jpg,25,m,1.8,76,23.45679012
+dev1760_0.jpg,24,f,1.75,71,23.18367347
+dev1760_1.jpg,24,f,1.75,91,29.71428571
+dev1761_0.jpg,29,f,1.73,71,23.72281065
+dev1761_1.jpg,29,f,1.73,114,38.09014668
+dev1763_0.jpg,31,m,1.73,71,23.72281065
+dev1763_1.jpg,31,m,1.73,107,35.75127802
+dev1764_0.jpg,26,f,1.68,71,25.15589569
+dev1764_1.jpg,26,f,1.68,98,34.72222222
+dev1765_0.jpg,16,m,1.78,71,22.40878677
+dev1765_1.jpg,16,m,1.78,124,39.13647267
+dev1766_0.jpg,34,f,1.57,71,28.80441397
+dev1766_1.jpg,34,f,1.57,102,41.38098909
+dev1767_0.jpg,29,f,1.75,71,23.18367347
+dev1767_1.jpg,29,f,1.75,119,38.85714286
+dev1771_0.jpg,28,f,1.5,71,31.55555556
+dev1773_0.jpg,27,f,1.65,71,26.07897153
+dev1773_1.jpg,27,f,1.65,83,30.48668503
+dev1774_0.jpg,24,m,1.68,71,25.15589569
+dev1774_1.jpg,24,m,1.68,86,30.47052154
+dev1776_0.jpg,25,f,1.7,71,24.56747405
+dev1776_1.jpg,25,f,1.7,95,32.87197232
+dev1779_0.jpg,25,f,1.65,71,26.07897153
+dev1779_1.jpg,25,f,1.65,91,33.4251607
+dev1780_0.jpg,20,m,1.85,71,20.74506939
+dev1780_1.jpg,20,m,1.85,80,23.37472608
+dev1781_0.jpg,23,m,1.65,71,26.07897153
+dev1781_1.jpg,23,m,1.65,72,26.44628099
+dev1783_0.jpg,21,f,1.68,71,25.15589569
+dev1783_1.jpg,21,f,1.68,85,30.11621315
+dev1786_0.jpg,24,f,1.63,71,26.72287252
+dev1786_1.jpg,24,f,1.63,81,30.48665738
+dev1788_0.jpg,18,f,1.68,71,25.15589569
+dev1788_1.jpg,18,f,1.68,91,32.24206349
+dev1789_0.jpg,29,f,1.7,70,24.22145329
+dev1789_1.jpg,29,f,1.7,98,33.9100346
+dev1790_0.jpg,25,f,1.8,70,21.60493827
+dev1790_1.jpg,25,f,1.8,88,27.16049383
+dev1793_0.jpg,26,m,1.63,70,26.34649403
+dev1793_1.jpg,26,m,1.63,95,35.75595619
+dev1796_0.jpg,18,f,1.68,70,24.8015873
+dev1796_1.jpg,18,f,1.68,98,34.72222222
+dev1797_0.jpg,18,m,1.68,70,24.8015873
+dev1798_0.jpg,36,f,1.57,70,28.398718
+dev1798_1.jpg,36,f,1.57,73,29.61580592
+dev1800_0.jpg,19,f,1.52,70,30.29778393
+dev1800_1.jpg,19,f,1.52,81,35.05886427
+dev1805_0.jpg,36,m,1.83,70,20.90238586
+dev1805_1.jpg,36,m,1.83,118,35.23545045
+dev1806_1.jpg,27,m,1.63,98,36.88509165
+dev1807_0.jpg,19,m,1.91,70,19.1880705
+dev1808_0.jpg,29,m,1.8,70,21.60493827
+dev1808_1.jpg,29,m,1.8,100,30.86419753
+dev1810_0.jpg,25,f,1.65,70,25.71166208
+dev1810_1.jpg,25,f,1.65,84,30.85399449
+dev1814_0.jpg,18,m,1.73,70,23.38868656
+dev1818_0.jpg,28,m,1.75,70,22.85714286
+dev1818_1.jpg,28,m,1.75,86,28.08163265
+dev1819_1.jpg,23,f,1.7,79,27.33564014
+dev1821_0.jpg,23,m,1.91,70,19.1880705
+dev1821_1.jpg,23,m,1.91,89,24.39626107
+dev1822_0.jpg,24,m,1.88,70,19.80534178
+dev1822_1.jpg,24,m,1.88,84,23.76641014
+dev1823_0.jpg,43,m,1.57,70,28.398718
+dev1823_1.jpg,43,m,1.57,94,38.13542132
+dev1824_0.jpg,19,m,1.78,70,22.09317005
+dev1825_0.jpg,23,m,1.85,70,20.45288532
+dev1830_0.jpg,28,m,1.75,70,22.85714286
+dev1830_1.jpg,28,m,1.75,83,27.10204082
+dev1831_0.jpg,21,m,1.73,70,23.38868656
+dev1831_1.jpg,21,m,1.73,79,26.3958034
+dev1833_0.jpg,20,m,1.75,70,22.85714286
+dev1833_1.jpg,20,m,1.75,100,32.65306122
+dev1834_0.jpg,25,f,1.7,70,24.22145329
+dev1834_1.jpg,25,f,1.7,86,29.75778547
+dev1836_0.jpg,27,m,1.73,70,23.38868656
+dev1836_1.jpg,27,m,1.73,82,27.39817568
+dev1838_1.jpg,26,m,1.68,73,25.86451247
+dev1839_0.jpg,30,m,1.7,70,24.22145329
+dev1839_1.jpg,30,m,1.7,79,27.33564014
+dev1842_0.jpg,32,m,1.88,70,19.80534178
+dev1842_1.jpg,32,m,1.88,91,25.74694432
+dev1849_0.jpg,25,f,1.73,70,23.38868656
+dev1849_1.jpg,25,f,1.73,98,32.74416118
+dev1853_0.jpg,26,m,1.68,70,24.8015873
+dev1854_0.jpg,31,m,1.68,70,24.8015873
+dev1854_1.jpg,31,m,1.68,102,36.13945578
+dev1855_0.jpg,23,f,1.63,70,26.34649403
+dev1855_1.jpg,23,f,1.63,82,30.86303587
+dev1859_0.jpg,33,m,1.7,70,24.22145329
+dev1859_1.jpg,33,m,1.7,77,26.64359862
+dev1860_1.jpg,20,f,1.73,116,38.75839487
+dev1863_0.jpg,29,m,1.96,70,18.22157434
+dev1863_1.jpg,29,m,1.96,95,24.72927947
+dev1864_0.jpg,27,m,1.78,70,22.09317005
+dev1864_1.jpg,27,m,1.78,79,24.93372049
+dev1865_0.jpg,24,f,1.78,70,22.09317005
+dev1868_0.jpg,21,m,1.96,70,18.22157434
+dev1868_1.jpg,21,m,1.96,77,20.04373178
+dev1870_0.jpg,17,m,1.8,70,21.60493827
+dev1870_1.jpg,17,m,1.8,109,33.64197531
+dev1875_0.jpg,19,f,1.65,70,25.71166208
+dev1875_1.jpg,19,f,1.65,83,30.48668503
+dev1878_0.jpg,28,f,1.68,70,24.8015873
+dev1878_1.jpg,28,f,1.68,102,36.13945578
+dev1880_0.jpg,33,f,1.68,70,24.8015873
+dev1880_1.jpg,33,f,1.68,117,41.45408163
+dev1881_0.jpg,34,m,1.78,70,22.09317005
+dev1881_1.jpg,34,m,1.78,83,26.19618735
+dev1882_0.jpg,20,m,1.7,70,24.22145329
+dev1882_1.jpg,20,m,1.7,91,31.48788927
+dev1883_0.jpg,22,m,1.73,70,23.38868656
+dev1883_1.jpg,22,m,1.73,100,33.41240937
+dev1887_0.jpg,22,f,1.65,70,25.71166208
+dev1887_1.jpg,22,f,1.65,89,32.69054178
+dev1888_0.jpg,18,f,1.78,70,22.09317005
+dev1888_1.jpg,18,f,1.78,111,35.03345537
+dev1889_0.jpg,25,m,1.8,70,21.60493827
+dev1889_1.jpg,25,m,1.8,76,23.45679012
+dev1890_0.jpg,27,f,1.7,70,24.22145329
+dev1895_0.jpg,27,f,1.57,70,28.398718
+dev1898_0.jpg,23,m,1.78,70,22.09317005
+dev1898_1.jpg,23,m,1.78,83,26.19618735
+dev1899_0.jpg,27,f,1.68,70,24.8015873
+dev1899_1.jpg,27,f,1.68,84,29.76190476
+dev1900_0.jpg,18,m,1.73,70,23.38868656
+dev1900_1.jpg,18,m,1.73,78,26.06167931
+dev1907_0.jpg,21,m,1.88,70,19.80534178
+dev1907_1.jpg,21,m,1.88,105,29.70801268
+dev1916_0.jpg,22,f,1.57,69,27.99302203
+dev1916_1.jpg,22,f,1.57,78,31.64428577
+dev1920_0.jpg,19,f,1.63,69,25.97011555
+dev1920_1.jpg,19,f,1.63,93,35.00319922
+dev1922_1.jpg,30,f,1.65,111,40.77134986
+dev1929_0.jpg,28,m,1.7,69,23.87543253
+dev1929_1.jpg,28,m,1.7,77,26.64359862
+dev1931_0.jpg,26,f,1.7,69,23.87543253
+dev1931_1.jpg,26,f,1.7,98,33.9100346
+dev1935_0.jpg,23,f,1.65,69,25.34435262
+dev1936_0.jpg,22,f,1.73,69,23.05456246
+dev1936_1.jpg,22,f,1.73,90,30.07116843
+dev1939_0.jpg,30,m,1.73,69,23.05456246
+dev1939_1.jpg,30,m,1.73,73,24.39105884
+dev1940_0.jpg,25,f,1.68,69,24.44727891
+dev1940_1.jpg,25,f,1.68,84,29.76190476
+dev1941_0.jpg,22,m,1.8,69,21.2962963
+dev1941_1.jpg,22,m,1.8,79,24.38271605
+dev1944_0.jpg,19,f,1.55,69,28.72008325
+dev1944_1.jpg,19,f,1.55,83,34.54734651
+dev1948_0.jpg,23,f,1.7,69,23.87543253
+dev1949_0.jpg,34,f,1.6,69,26.953125
+dev1949_1.jpg,34,f,1.6,98,38.28125
+dev1952_0.jpg,16,f,1.68,69,24.44727891
+dev1952_1.jpg,16,f,1.68,100,35.430839
+dev1953_1.jpg,21,f,1.65,92,33.79247016
+dev1956_0.jpg,20,f,1.73,69,23.05456246
+dev1956_1.jpg,20,f,1.73,94,31.40766481
+dev1959_0.jpg,25,f,1.57,69,27.99302203
+dev1959_1.jpg,25,f,1.57,83,33.67276563
+dev1960_0.jpg,21,f,1.68,69,24.44727891
+dev1960_1.jpg,21,f,1.68,98,34.72222222
+dev1962_0.jpg,22,m,1.68,69,24.44727891
+dev1962_1.jpg,22,m,1.68,78,27.63605442
+dev1969_0.jpg,26,f,1.7,68,23.52941176
+dev1969_1.jpg,26,f,1.7,77,26.64359862
+dev1970_0.jpg,24,m,1.73,68,22.72043837
+dev1970_1.jpg,24,m,1.73,99,33.07828528
+dev1971_0.jpg,21,m,1.63,68,25.59373706
+dev1971_1.jpg,21,m,1.63,79,29.73390041
+dev1972_0.jpg,22,f,1.7,68,23.52941176
+dev1972_1.jpg,22,f,1.7,88,30.44982699
+dev1974_0.jpg,22,m,1.85,68,19.86851717
+dev1974_1.jpg,22,m,1.85,82,23.95909423
+dev1975_0.jpg,27,f,1.63,68,25.59373706
+dev1975_1.jpg,27,f,1.63,109,41.025255
+dev1976_0.jpg,25,f,1.65,68,24.97704316
+dev1976_1.jpg,25,f,1.65,104,38.20018365
+dev1977_0.jpg,21,m,1.83,68,20.30517483
+dev1977_1.jpg,21,m,1.83,73,21.79820239
+dev1979_0.jpg,23,f,1.73,68,22.72043837
+dev1979_1.jpg,23,f,1.73,86,28.73467206
+dev1983_0.jpg,18,f,1.57,68,27.58732606
+dev1983_1.jpg,18,f,1.57,100,40.56959714
+dev1986_0.jpg,24,f,1.78,68,21.46193662
+dev1986_1.jpg,24,f,1.78,104,32.82413837
+dev1988_0.jpg,32,m,1.68,68,24.09297052
+dev1988_1.jpg,32,m,1.68,91,32.24206349
+dev1989_0.jpg,25,f,1.6,68,26.5625
+dev1989_1.jpg,25,f,1.6,86,33.59375
+dev1991_0.jpg,23,f,1.68,68,24.09297052
+dev1991_1.jpg,23,f,1.68,82,29.05328798
+dev1995_0.jpg,33,m,1.68,68,24.09297052
+dev1995_1.jpg,33,m,1.68,84,29.76190476
+dev1997_0.jpg,20,f,1.7,68,23.52941176
+dev1997_1.jpg,20,f,1.7,100,34.60207612
+dev1999_0.jpg,20,m,1.78,68,21.46193662
+dev1999_1.jpg,20,m,1.78,70,22.09317005
+dev2001_0.jpg,21,m,1.8,68,20.98765432
+dev2001_1.jpg,21,m,1.8,94,29.01234568
+dev2003_0.jpg,27,m,1.78,68,21.46193662
+dev2003_1.jpg,27,m,1.78,118,37.24277238
+dev2005_0.jpg,29,m,1.85,68,19.86851717
+dev2005_1.jpg,29,m,1.85,124,36.23082542
+dev2006_0.jpg,18,f,1.73,68,22.72043837
+dev2006_1.jpg,18,f,1.73,91,30.40529253
+dev2008_0.jpg,26,m,1.78,68,21.46193662
+dev2008_1.jpg,26,m,1.78,89,28.08988764
+n1a.jpg,25,m,1.88,122,34.51788139
+n2a.jpg,29,m,1.78,120,37.87400581
+n3a.jpg,25,m,1.73,65,21.71806609
+n4a.jpg,19,f,1.88,68,19.23947488
+n5a.jpg,20,f,1.68,61,21.61281179
+n6a.jpg,19,f,1.78,61,19.25261962
+n7a.jpg,22,f,1.63,53,19.94805977
+n8a.jpg,18,m,1.68,52,18.42403628
+n9a.jpg,21,m,1.78,116,36.61153895
+n10a.jpg,25,m,1.73,55,18.37682515
+n11a.jpg,23,f,1.55,77,32.04994797
+n12a.jpg,21,f,1.55,77,32.04994797
+n13a.jpg,27,f,1.57,73,29.61580592
+n14a.jpg,21,f,1.63,64,24.08822312
+n15a.jpg,28,f,1.63,60,22.58270917
+n16a.jpg,24,f,1.55,61,25.39021852
+n17a.jpg,24,f,1.57,62,25.15315023
+n18a.jpg,18,m,1.83,75,22.39541342
+n19a.jpg,21,m,1.75,75,24.48979592
+n20a.jpg,25,m,1.7,64,22.14532872
+n21a.jpg,28,f,1.6,67,26.171875
+n22a.jpg,26,f,1.55,72,29.96878252
+n23a.jpg,20,f,1.6,64,25
+n24a.jpg,27,f,1.57,61,24.74745426
+n25a.jpg,17,m,1.7,66,22.83737024
+n26a.jpg,26,f,1.6,91,35.546875
+n27a.jpg,24,f,1.57,91,36.9183334
+n28a.jpg,27,f,1.52,55,23.80540166
+n29a.jpg,26,f,1.52,60,25.96952909
+n30a.jpg,19,f,1.52,71,30.73060942
+n31a.jpg,16,m,1.73,68,22.72043837
+n32a.jpg,19,m,1.73,70,23.38868656
+n33a.jpg,26,f,1.68,112,39.68253968
+n34a.jpg,26,f,1.57,60,24.34175829
+n35a.jpg,21,f,1.65,64,23.50780533
+n36a.jpg,24,f,1.65,105,38.56749311
+n37a.jpg,25,m,1.88,91,25.74694432
+n39a.jpg,20,m,1.83,68,20.30517483
+n40a.jpg,24,m,1.75,130,42.44897959
+n41a.jpg,15,m,1.68,73,25.86451247
+n42a.jpg,19,f,1.57,68,27.58732606
+n43a.jpg,26,f,1.75,111,36.24489796
+n44a.jpg,20,f,1.55,64,26.63891779
+n45a.jpg,29,f,1.63,72,27.09925101
+n46a.jpg,36,f,1.63,75,28.22838647
+n47a.jpg,28,f,1.57,73,29.61580592
+n48a.jpg,23,f,1.63,70,26.34649403
+n49a.jpg,24,f,1.6,59,23.046875
+n50a.jpg,20,f,1.52,85,36.7901662
+n51a.jpg,22,f,1.63,80,30.1102789
+n52a.jpg,24,m,1.88,84,23.76641014
+n53a.jpg,24,f,1.55,60,24.97398543
+n54a.jpg,24,f,1.6,65,25.390625
+n55a.jpg,20,m,1.83,78,23.29122996
+n56a.jpg,23,f,1.63,75,28.22838647
+n57a.jpg,21,f,1.57,79,32.04998174
+n58a.jpg,20,m,1.83,79,23.58983547
+n59a.jpg,20,f,1.65,73,26.81359045
+n60a.jpg,25,m,1.6,75,29.296875
+n61a.jpg,26,f,1.63,66,24.84098009
+n62a.jpg,24,f,1.57,88,35.70124549
+n64a.jpg,24,f,1.5,66,29.33333333
+n65a.jpg,23,f,1.55,77,32.04994797
+n66a.jpg,29,m,1.85,143,41.78232286
+n67a.jpg,24,f,1.52,82,35.49168975
+n68a.jpg,24,f,1.6,100,39.0625
+n69a.jpg,21,f,1.65,66,24.24242424
+n70a.jpg,23,f,1.6,66,25.78125
+n71a.jpg,22,f,1.63,98,36.88509165
+n72a.jpg,27,f,1.63,75,28.22838647
+n73a.jpg,24,f,1.63,73,27.47562949
+n74a.jpg,20,f,1.47,68,31.46836966
+n75a.jpg,22,m,1.73,80,26.7299275
+n76a.jpg,28,f,1.55,80,33.29864724
+n77a.jpg,28,f,1.57,73,29.61580592
+n79a.jpg,21,f,1.63,73,27.47562949
+n80a.jpg,26,f,1.6,82,32.03125
+n81a.jpg,17,m,1.78,66,20.83070319
+n82a.jpg,28,f,1.63,67,25.21735858
+n83a.jpg,21,f,1.63,75,28.22838647
+n84a.jpg,23,f,1.57,91,36.9183334
+n85a.jpg,21,f,1.68,106,37.55668934
+n86a.jpg,40,f,1.63,73,27.47562949
+n87a.jpg,31,f,1.65,111,40.77134986
+n88a.jpg,30,f,1.7,68,23.52941176
+n89a.jpg,22,f,1.65,94,34.52708907
+n90a.jpg,24,f,1.52,79,34.1932133
+n91a.jpg,24,m,1.7,85,29.41176471
+n92a.jpg,24,f,1.52,75,32.46191136
+n94a.jpg,26,f,1.5,84,37.33333333
+n95a.jpg,17,m,1.68,70,24.8015873
+n96a.jpg,18,m,1.88,66,18.67360797
+n97a.jpg,24,m,1.78,71,22.40878677
+n98a.jpg,30,f,1.63,75,28.22838647
+n99a.jpg,23,f,1.7,75,25.95155709
+n100a.jpg,23,f,1.63,89,33.49768527
+n101a.jpg,24,f,1.6,86,33.59375
+n103a.jpg,20,m,1.75,58,18.93877551
+n104a.jpg,21,m,1.78,68,21.46193662
+n105a.jpg,21,f,1.6,77,30.078125
+n106a.jpg,21,f,1.65,76,27.91551882
+n107a.jpg,23,f,1.52,66,28.56648199
+n108a.jpg,21,f,1.63,72,27.09925101
+n109a.jpg,21,f,1.65,116,42.60789715
+n110a.jpg,28,f,1.55,95,39.5421436
+n111a.jpg,17,f,1.65,84,30.85399449
+n112a.jpg,22,m,1.88,88,24.89814396
+n113a.jpg,21,f,1.57,82,33.26706966
+n114a.jpg,18,m,1.78,57,17.99015276
+n115a.jpg,26,f,1.7,76,26.29757785
+n116a.jpg,23,f,1.63,73,27.47562949
+n117a.jpg,25,f,1.68,93,32.95068027
+n118a.jpg,19,f,1.7,79,27.33564014
+n1b.jpg,25,m,1.88,79,22.35174287
+n2b.jpg,29,m,1.78,75,23.67125363
+n3b.jpg,25,m,1.73,65,21.71806609
+n4b.jpg,19,f,1.88,68,19.23947488
+n5b.jpg,20,f,1.68,61,21.61281179
+n6b.jpg,19,f,1.78,61,19.25261962
+n7b.jpg,22,f,1.63,53,19.94805977
+n8b.jpg,18,m,1.68,89,31.53344671
+n9b.jpg,21,m,1.78,79,24.93372049
+n10b.jpg,25,m,1.73,68,22.72043837
+n11b.jpg,23,f,1.55,52,21.64412071
+n12b.jpg,21,f,1.55,52,21.64412071
+n13b.jpg,27,f,1.57,51,20.69049454
+n14b.jpg,21,f,1.63,51,19.1953028
+n15b.jpg,28,f,1.63,61,22.95908766
+n16b.jpg,24,f,1.55,51,21.22788762
+n17b.jpg,24,f,1.57,51,20.69049454
+n18b.jpg,18,m,1.83,74,22.09680791
+n19b.jpg,21,m,1.75,74,24.16326531
+n20b.jpg,25,m,1.7,64,22.14532872
+n21b.jpg,28,f,1.6,50,19.53125
+n22b.jpg,26,f,1.55,50,20.81165453
+n23b.jpg,20,f,1.6,50,19.53125
+n24b.jpg,27,f,1.57,50,20.28479857
+n25b.jpg,17,m,1.7,66,22.83737024
+n26b.jpg,26,f,1.6,50,19.53125
+n27b.jpg,24,f,1.57,50,20.28479857
+n28b.jpg,27,f,1.52,49,21.20844875
+n29b.jpg,26,f,1.52,49,21.20844875
+n30b.jpg,19,f,1.52,48,20.77562327
+n31b.jpg,16,m,1.73,68,22.72043837
+n32b.jpg,19,m,1.73,70,23.38868656
+n33b.jpg,26,f,1.68,65,23.03004535
+n34b.jpg,26,f,1.57,46,18.66201469
+n35b.jpg,21,f,1.65,64,23.50780533
+n36b.jpg,24,f,1.65,54,19.83471074
+n37b.jpg,25,m,1.88,91,25.74694432
+n38b.jpg,26,f,1.57,54,21.90758246
+n39b.jpg,20,m,1.83,68,20.30517483
+n40b.jpg,24,m,1.75,76,24.81632653
+n41b.jpg,15,m,1.68,54,19.13265306
+n42b.jpg,19,f,1.57,54,21.90758246
+n43b.jpg,26,f,1.75,54,17.63265306
+n44b.jpg,20,f,1.55,54,22.47658689
+n45b.jpg,29,f,1.63,54,20.32443826
+n46b.jpg,36,f,1.63,54,20.32443826
+n47b.jpg,28,f,1.57,54,21.90758246
+n48b.jpg,23,f,1.63,54,20.32443826
+n49b.jpg,24,f,1.6,54,21.09375
+n50b.jpg,20,f,1.52,53,22.93975069
+n51b.jpg,22,f,1.63,53,19.94805977
+n52b.jpg,24,m,1.88,84,23.76641014
+n53b.jpg,24,f,1.55,53,22.0603538
+n54b.jpg,24,f,1.6,53,20.703125
+n55b.jpg,20,m,1.83,78,23.29122996
+n56b.jpg,23,f,1.63,52,19.57168128
+n57b.jpg,21,f,1.57,52,21.09619051
+n58b.jpg,20,m,1.83,79,23.58983547
+n59b.jpg,20,f,1.65,52,19.10009183
+n60b.jpg,25,m,1.6,52,20.3125
+n61b.jpg,26,f,1.63,52,19.57168128
+n62b.jpg,24,f,1.57,52,21.09619051
+n64b.jpg,24,f,1.5,52,23.11111111
+n65b.jpg,23,f,1.55,52,21.64412071
+n66b.jpg,29,m,1.85,90,26.29656684
+n67b.jpg,24,f,1.52,54,23.37257618
+n68b.jpg,24,f,1.6,54,21.09375
+n69b.jpg,21,f,1.65,54,19.83471074
+n70b.jpg,23,f,1.6,54,21.09375
+n71b.jpg,22,f,1.63,54,20.32443826
+n72b.jpg,27,f,1.63,54,20.32443826
+n73b.jpg,24,f,1.63,54,20.32443826
+n74b.jpg,20,f,1.47,54,24.98958767
+n75b.jpg,22,m,1.73,80,26.7299275
+n76b.jpg,28,f,1.55,55,22.89281998
+n77b.jpg,28,f,1.57,55,22.31327843
+n78b.jpg,27,f,1.57,55,22.31327843
+n79b.jpg,21,f,1.63,55,20.70081674
+n80b.jpg,26,f,1.6,55,21.484375
+n81b.jpg,17,m,1.78,55,17.35891933
+n82b.jpg,28,f,1.63,56,21.07719523
+n83b.jpg,21,f,1.63,56,21.07719523
+n84b.jpg,23,f,1.57,56,22.7189744
+n85b.jpg,21,f,1.68,56,19.84126984
+n86b.jpg,40,f,1.63,56,21.07719523
+n87b.jpg,31,f,1.65,57,20.93663912
+n88b.jpg,30,f,1.7,57,19.72318339
+n89b.jpg,22,f,1.65,57,20.93663912
+n90b.jpg,24,f,1.52,57,24.67105263
+n91b.jpg,24,m,1.7,58,20.06920415
+n92b.jpg,24,f,1.52,58,25.10387812
+n93b.jpg,36,f,1.6,58,22.65625
+n94b.jpg,26,f,1.5,58,25.77777778
+n95b.jpg,17,m,1.68,58,20.54988662
+n96b.jpg,18,m,1.88,67,18.95654142
+n97b.jpg,24,m,1.78,71,22.40878677
+n98b.jpg,30,f,1.63,58,21.8299522
+n99b.jpg,23,f,1.7,58,20.06920415
+n100b.jpg,23,f,1.63,57,21.45357371
+n101b.jpg,24,f,1.6,57,22.265625
+n102b.jpg,25,m,1.68,57,20.19557823
+n103b.jpg,20,m,1.75,58,18.93877551
+n104b.jpg,21,m,1.78,68,21.46193662
+n105b.jpg,21,f,1.6,57,22.265625
+n106b.jpg,21,f,1.65,57,20.93663912
+n107b.jpg,23,f,1.52,57,24.67105263
+n108b.jpg,21,f,1.63,57,21.45357371
+n109b.jpg,21,f,1.65,57,20.93663912
+n110b.jpg,28,f,1.55,57,23.72528616
+n111b.jpg,17,f,1.65,57,20.93663912
+n112b.jpg,22,m,1.88,88,24.89814396
+n113b.jpg,21,f,1.57,57,23.12467037
+n114b.jpg,18,m,1.78,90,28.40550436
+n115b.jpg,26,f,1.7,57,19.72318339
+n116b.jpg,23,f,1.63,57,21.45357371
+n117b.jpg,25,f,1.68,57,20.19557823
+n118b.jpg,19,f,1.7,57,19.72318339
+tan1000a.jpg,27,m,1.73,83,27.73229978
+tan901a.jpg,24,m,1.88,84,23.76641014
+tan902a.jpg,21,f,1.65,84,30.85399449
+tan903a.jpg,23,m,1.7,84,29.06574394
+tan905a.jpg,29,m,1.85,84,24.54346238
+tan906a.jpg,22,m,1.91,84,23.0256846
+tan907a.jpg,21,m,1.88,84,23.76641014
+tan908a.jpg,19,m,1.78,84,26.51180407
+tan910a.jpg,18,m,1.78,84,26.51180407
+tan911a.jpg,20,m,1.8,84,25.92592593
+tan912a.jpg,22,m,1.88,84,23.76641014
+tan913a.jpg,48,m,1.73,84,28.06642387
+tan914a.jpg,20,m,1.78,84,26.51180407
+tan915a.jpg,19,f,1.8,84,25.92592593
+tan917a.jpg,22,m,1.78,84,26.51180407
+tan918a.jpg,23,m,1.78,84,26.51180407
+tan920a.jpg,30,f,1.6,84,32.8125
+tan921a.jpg,24,m,1.88,84,23.76641014
+tan922a.jpg,23,m,1.8,84,25.92592593
+tan923a.jpg,22,m,1.83,84,25.08286303
+tan926a.jpg,25,m,1.98,84,21.42638506
+tan928a.jpg,21,m,1.7,84,29.06574394
+tan930a.jpg,32,m,1.91,84,23.0256846
+tan933a.jpg,22,f,1.65,84,30.85399449
+tan935a.jpg,20,m,1.78,84,26.51180407
+tan936a.jpg,21,m,1.8,84,25.92592593
+tan937a.jpg,24,m,1.91,84,23.0256846
+tan938a.jpg,17,m,1.85,84,24.54346238
+tan939a.jpg,18,f,1.57,84,34.0784616
+tan940a.jpg,21,m,1.83,84,25.08286303
+tan941a.jpg,28,m,1.93,84,22.55094096
+tan942a.jpg,24,m,1.88,84,23.76641014
+tan943a.jpg,22,m,1.85,84,24.54346238
+tan944a.jpg,30,m,1.75,84,27.42857143
+tan948a.jpg,23,m,1.85,84,24.54346238
+tan949a.jpg,24,m,1.85,84,24.54346238
+tan950a.jpg,22,m,1.85,84,24.54346238
+tan954a.jpg,16,m,1.85,84,24.54346238
+tan960a.jpg,21,f,1.73,84,28.06642387
+tan961a.jpg,28,f,1.68,84,29.76190476
+tan962a.jpg,18,m,1.75,84,27.42857143
+tan966a.jpg,20,m,1.78,84,26.51180407
+tan967a.jpg,26,f,1.85,84,24.54346238
+tan968a.jpg,30,m,1.73,84,28.06642387
+tan969a.jpg,21,m,1.73,84,28.06642387
+tan971a.jpg,22,f,1.5,84,37.33333333
+tan975a.jpg,32,m,1.93,84,22.55094096
+tan976a.jpg,21,m,1.78,84,26.51180407
+tan977a.jpg,23,f,1.73,84,28.06642387
+tan978a.jpg,23,f,1.68,84,29.76190476
+tan980a.jpg,20,m,1.83,84,25.08286303
+tan985a.jpg,21,m,1.85,84,24.54346238
+tan986a.jpg,30,m,1.88,84,23.76641014
+tan988a.jpg,21,f,1.78,84,26.51180407
+tan989a.jpg,23,f,1.65,84,30.85399449
+tan990a.jpg,30,m,1.85,84,24.54346238
+tan991a.jpg,19,m,1.78,84,26.51180407
+tan992a.jpg,22,f,1.65,84,30.85399449
+tan993a.jpg,23,f,1.68,84,29.76190476
+tan994a.jpg,20,m,1.85,84,24.54346238
+tan996a.jpg,30,m,1.8,83,25.61728395
+tan997a.jpg,23,m,1.88,83,23.48347669
+Ar_9_b.jpg,34,f,1.63,68,25.59373706
+Ar_10_a.jpg,20,f,1.6,81.65,31.89453125
+Ar_10_b.jpg,20,f,1.6,68,26.5625
+Ar_11_b.jpg,20,m,1.91,75,20.55864697
+Ar_12_a.jpg,23,f,1.85,102,29.80277575
+Ar_12_b.jpg,23,f,1.85,68,19.86851717
+Ar_13_a.jpg,21,f,1.63,77,28.98114344
+Ar_13_b.jpg,21,f,1.63,68,25.59373706
+Ar_14_a.jpg,29,f,1.73,95,31.7417889
+Ar_15_a.jpg,30,m,1.73,73,24.39105884
+Ar_15_b.jpg,30,m,1.73,68,22.72043837
+Ar_16_b.jpg,27,f,1.63,110,41.40163348
+Ar_16_c.jpg,27,f,1.63,96.7,36.39579962
+Ar_16_d.jpg,27,f,1.63,78.5,29.54571117
+Ar_16_e.jpg,27,f,1.63,68,25.59373706
+Ar_17_a.jpg,16,m,1.78,90.72,28.63274839
+Ar_17_b.jpg,18,m,1.78,68,21.46193662
+nadeem_india_1b.jpg,24,f,1.63,63,23.71184463
+nadeem_india_2b.jpg,24,m,1.8,78,24.07407407
+nadeem_india_3b.jpg,32,f,1.65,59,21.67125803
+nadeem_india_5b.jpg,25,m,1.75,78,25.46938776
+nadeem_india_6b.jpg,25,m,1.78,79,24.93372049
+nadeem_india_7b.jpg,20,m,1.7,67,23.183391
+nadeem_india_8b.jpg,28,f,1.6,60,23.4375
+nadeem_india_9b.jpg,24,f,1.62,64,24.38652644
+nadeem_india_10b.jpg,26,m,1.7,78,26.98961938
+nadeem_india_11b.jpg,24,m,1.83,77,22.99262444
+nadeem_india_12b.jpg,29,f,1.7,66,22.83737024
+nadeem_india_13b.jpg,23,f,1.58,52,20.82999519
+nadeem_india_14b.jpg,34,m,1.75,74,24.16326531
+nadeem_india_15b.jpg,34,m,1.74,78,25.76298058
+nadeem_india_16b.jpg,23,m,1.78,93,29.3523545
+nadeem_india_20b.jpg,29,f,1.63,70,26.34649403
+nadeem_india_21b.jpg,29,f,1.53,57,24.34960912
+nadeem_india_22b.jpg,28,m,1.8,71,21.91358025
+nadeem_india_23b.jpg,47,m,1.68,77,27.28174603
+nadeem_india_24b.jpg,21,m,1.68,67,23.73866213
+nadeem_india_25b.jpg,29,f,1.58,57.6,23.07322544
+nadeem_india_26b.jpg,21,m,1.78,71,22.40878677
+nadeem_india_27b.jpg,25,m,1.78,91,28.72112107
+nadeem_india_28b.jpg,26,m,1.78,77,24.30248706
+nadeem_india_29b.jpg,25,f,1.58,53,21.23057202
+nadeem_india_30b.jpg,38,m,1.78,94,29.66797122
+nadeem_india_31b.jpg,32,m,1.78,85,26.82742078
+nadeem_india_32b.jpg,30,m,1.73,65,21.71806609
+nadeem_india_33b.jpg,30,f,1.68,68,24.09297052
+nadeem_india_34b.jpg,20,m,1.89,83,23.2356317
+nadeem_india_35b.jpg,24,f,1.65,55,20.2020202
+nadeem_india_36b.jpg,22,f,1.6,67,26.171875
+nadeem_india_37b.jpg,26,f,1.58,58,23.23345618
+nadeem_india_38b.jpg,32,m,1.78,84,26.51180407
+nadeem_india_39b.jpg,29,m,1.8,90,27.77777778
+nadeem_india_1a.jpg,24,f,1.63,90,33.87406376
+nadeem_india_2a.jpg,24,m,1.8,122,37.65432099
+nadeem_india_3a.jpg,32,f,1.65,93,34.15977961
+nadeem_india_5a.jpg,25,m,1.75,108,35.26530612
+nadeem_india_6a.jpg,25,m,1.78,97,30.61482136
+nadeem_india_7a.jpg,20,m,1.7,50,17.30103806
+nadeem_india_8a.jpg,28,f,1.6,85,33.203125
+nadeem_india_9a.jpg,24,f,1.62,87,33.15043439
+nadeem_india_10a.jpg,26,m,1.7,99,34.25605536
+nadeem_india_11a.jpg,24,m,1.83,107,31.95078981
+nadeem_india_12a.jpg,29,f,1.7,121,41.86851211
+nadeem_india_13a.jpg,23,f,1.58,60,24.03460984
+nadeem_india_14a.jpg,34,m,1.75,106,34.6122449
+nadeem_india_15a.jpg,34,m,1.74,103,34.02034615
+nadeem_india_20a.jpg,29,f,1.63,90,33.87406376
+nadeem_india_21a.jpg,29,f,1.53,76,32.4661455
+nadeem_india_23a.jpg,47,m,1.68,95,33.65929705
+nadeem_india_24a.jpg,21,m,1.68,121,42.87131519
+nadeem_india_25a.jpg,29,f,1.58,78,31.24499279
+nadeem_india_26a.jpg,21,m,1.78,93,29.3523545
+nadeem_india_27a.jpg,25,m,1.78,95,29.98358793
+nadeem_india_28a.jpg,26,m,1.78,95,29.98358793
+nadeem_india_29a.jpg,25,f,1.58,72,28.84153181
+nadeem_india_31a.jpg,32,m,1.78,104,32.82413837
+nadeem_india_32a.jpg,30,m,1.73,87,29.06879615
+nadeem_india_33a.jpg,30,f,1.68,74,26.21882086
+nadeem_india_34a.jpg,20,m,1.89,128,35.83326335
+nadeem_india_35a.jpg,24,f,1.65,78,28.65013774
+nadeem_india_36a.jpg,22,f,1.6,81,31.640625
+nadeem_india_37a.jpg,26,f,1.58,67,26.83864765
+nadeem_india_38a.jpg,32,m,1.78,122,38.50523924
+nadeem_india_39a.jpg,29,m,1.8,99,30.55555556
+jessica_iskandar.jpg,31,F,1.68,50,17.7154195
+Jessica-Iskandar.jpg,31,F,1.68,50,17.7154195
+jessica_isnandar.jpg,31,F,1.68,50,17.7154195
+rich_brian.jpg,20,M,1.73,70,23.38868656
+rich_brian_1.jpg,20,M,1.73,70,23.38868656
+afgansyah_reza.jpg,30,M,1.73,75,25.05930703
+afgansyah_reza_1.jpg,30,M,1.73,75,25.05930703
+afgansyah_reza_2.jpg,30,M,1.73,75,25.05930703
+afgansyah_reza_3.jpg,30,M,1.73,75,25.05930703
+afgansyah_reza_P4.jpg,30,M,1.73,75,25.05930703
+SherinaMunaf.jpg,28,F,1.54,56,23.61275089
+SherinaMunaf1.jpg,28,F,1.54,56,23.61275089
+SherinaMunaf2.jpg,28,F,1.54,56,23.61275089
+Sherina03.jpg,28,F,1.54,56,23.61275089
+sherina-ungkap-kesulitannya-perankan-anggini-dalam-wiro-sableng.jpg,28,F,1.54,56,23.61275089
+sherina-munaf.jpg,28,F,1.54,56,23.61275089
+745.jpg,28,F,1.54,56,23.61275089
+w644-2-620x330.jpg,26,F,1.6,50,19.53125
+images.jpg,26,F,1.6,50,19.53125
+Ayu_Ting_Ting_14.jpg,26,F,1.6,50,19.53125
+ting-ayu-image.jpg,26,F,1.6,50,19.53125
+images (1).jpg,26,F,1.6,50,19.53125
+668617_720.jpg,26,F,1.6,50,19.53125
+152_IMG_6664-01.jpeg,26,F,1.6,50,19.53125
+049303400_1441609428-20150907-Ayu-Ting-Ting1.jpg,26,F,1.6,50,19.53125
+00221777.jpg,28,F,1.83,58,17.31911971
+selamat-kezia-warouw-segera-melangkah-ke-pelaminan-l0Rtq11juV.jpg,28,F,1.83,58,17.31911971
+35386-kezia-warouw-sempat-berkomunikasi-dengan-ml-terkait-prostitusi-online.jpg,28,F,1.83,58,17.31911971
+putri-indonesia-2016-kezia-warouw-437x355.png,28,F,1.83,58,17.31911971
+story-20170126170326-kezia-Copy_resized_594x500.jpg,28,F,1.83,58,17.31911971
+kezia-warouw_20170130_124101.jpg,28,F,1.83,58,17.31911971
+Kezia-Warouw-Pics-696x392.jpg,28,F,1.83,58,17.31911971
+kezia-warouw-menikah-ini-lokasi-pernikahannya-180827k.jpg,28,F,1.83,58,17.31911971
+220px-Ariska_MGI_2016.jpg,24,F,1.73,58,19.37919743
+2046438.jpg,24,F,1.73,58,19.37919743
+DKoYPFMUMAEUIVo.jpg,24,F,1.73,58,19.37919743
+MGI.jpg,24,F,1.73,58,19.37919743
+1339_missgrandthailand_20161101153036_bhilmqstx125.jpg,24,F,1.73,58,19.37919743
+94d9bde8787b6463c14d95547bce3825.jpg,24,F,1.73,58,19.37919743
+039960900_1480059749-20161125-CMS-Ariska-Putri-IA7.jpg,24,F,1.73,58,19.37919743
+img_660_442_ariska-put_1477460032tiwi.jpg,24,F,1.73,58,19.37919743
+Ariska-Putri-Pertiwi-300x257.jpg,24,F,1.73,58,19.37919743
+ariska_putri_pertiwi-20161026-001-rita.jpg,24,F,1.73,58,19.37919743
+BY8LNUC8UYnwsimg.jpg,24,F,1.73,58,19.37919743
+150778_620 (1).jpg,32,F,1.65,49,17.99816345
+Agnes+Monica+Oblivion+Premieres+Hollywood+cWv0F8R6nGxl.jpg,32,F,1.65,49,17.99816345
+download.jpg,32,F,1.65,49,17.99816345
+large.jpg,32,F,1.65,49,17.99816345
+agnes monica.jpg,32,F,1.65,49,17.99816345
+688427623_agnesmonica2.jpg,32,F,1.65,49,17.99816345
+195yhfat1ksicuwpdm77.jpeg,32,F,1.65,49,17.99816345
+250px-Agnes_Monica_in_2009_Asia_Song_Festival.jpg,32,F,1.65,49,17.99816345
+"MV5BYzlhODBhYjEtNDczZi00ZDM5LTllN2UtMjAwNjc4ZTAwOTBhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_UY317_CR20,0,214,317_AL_.jpg",37,M,1.78,70,22.09317005
+Billy-Crawford-2.jpg,37,M,1.78,70,22.09317005
+1459414826_Your-Face-Sounds-Familiar-host-Billy-Crawford.jpg,37,M,1.78,70,22.09317005
+billy-crawford.jpg,37,M,1.78,70,22.09317005
+7gJ7SrYhBxwgpZibrGnAJBa2KTv.jpg,37,M,1.78,70,22.09317005
+maxresdefault.jpg,37,M,1.78,70,22.09317005
+maxresdefault (1).jpg,37,M,1.78,70,22.09317005
+20181217-Billy-Crawford-profile.jpg,37,M,1.78,70,22.09317005
+billy-Crawford.jpeg,37,M,1.78,70,22.09317005
+https___blogs-images.forbes.com_robertolsen_files_2019_01_2014-SMIC_CHAIR-SY-Sr-1-copy-1200x923.jpg,95,M,1.72,80,27.04164413
+download (1).jpg,95,M,1.72,80,27.04164413
+images (2).jpg,95,M,1.72,80,27.04164413
+download (2).jpg,95,M,1.72,80,27.04164413
+allure4_2019-01-26_18-02-33.jpg,95,M,1.72,80,27.04164413
+megamall-henry-sy.jpg,95,M,1.72,80,27.04164413
+MAIN-henry-sy-dies.jpg,95,M,1.72,80,27.04164413
+images (3).jpg,95,M,1.72,80,27.04164413
+Henry-Sy-2-CNNPH.jpg,95,M,1.72,80,27.04164413
+Sarangani_Lone_District_Representative_Manny_Pacquiao_(cropped).jpg,40,M,1.65,72,26.44628099
+skysports-manny-pacquiao-boxing_4666195.jpg,40,M,1.65,72,26.44628099
+220px-Sarangani_Lone_District_Representative_Manny_Pacquiao_(cropped).jpg,40,M,1.65,72,26.44628099
+dt-manny.jpg,40,M,1.65,72,26.44628099
+download (3).jpg,40,M,1.65,72,26.44628099
+200px-MannyPacquiao1.jpg,40,M,1.65,72,26.44628099
+pacquiao-reach.jpg,40,M,1.65,72,26.44628099
+150914_Manny_Pacquiao_Asia_Game_Changer.jpg,40,M,1.65,72,26.44628099
+51c6840622f1422d8789d93c004bd801.png,40,M,1.65,72,26.44628099
+hi-res-3e87bb2f7400645ab54391c9d1e4103b_crop_north.jpg,40,M,1.65,72,26.44628099
+pacquiao-manny-011415-getty-ftrjpg_1x8f5gp3ssxy71qe4hyo4gognq.jpg,40,M,1.65,72,26.44628099
+"MV5BNzhhYTg3Y2EtYzMxYi00ZTNiLWJiODQtN2Q3YTkxMWM4NGYyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",27,F,1.76,55,17.75568182
+maria-mika-maxine-medina.jpg,27,F,1.76,55,17.75568182
+MV5BMDY2YjRhNGMtZmQ5Zi00MWJhLWFhOTUtZWZlYmZlMTI1MDY0L2ltYWdlXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg,27,F,1.76,55,17.75568182
+B7fz0n-k_400x400.jpg,27,F,1.76,55,17.75568182
+"MV5BMjc0NzgxZWMtNGQ2ZC00ZDBhLTk1OWMtMGEyNWI5MTQ1ODE5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",27,F,1.76,55,17.75568182
+maxine-medina-640-01_D8CBB68A5F0E4C63A806F61C7462F45E.jpg,27,F,1.76,55,17.75568182
+Maxine_Medina.jpg,27,F,1.76,55,17.75568182
+January_30_2017-maxine-medina-001_5F0912DFC60F490BAC028C3881E2ECD1.jpg,27,F,1.76,55,17.75568182
+maxine-medina-online-bashers.jpg,27,F,1.76,55,17.75568182
+images (4).jpg,27,F,1.76,55,17.75568182
+maxine-medina-online-bashers (1).jpg,27,F,1.76,55,17.75568182
+01-30-miss-phils.jpg,27,F,1.76,55,17.75568182
+Maxine_Medina_-carousel_D8C1A87B6D3C42B1A92C4B9E4F6025FD.jpg,27,F,1.76,55,17.75568182
+images (5).jpg,27,F,1.76,55,17.75568182
+maxine-medina-02_AC33EA4939C64E7F84CB6D927FCE5920.jpg,27,F,1.76,55,17.75568182
+uni2016_037291.jpg,27,F,1.76,55,17.75568182
+e399e0839f10376ba97731d35aa4f88f.jpg,27,F,1.76,55,17.75568182
+images (6).jpg,27,F,1.76,55,17.75568182
+pldt-ambassador-maxine-medina.png,27,F,1.76,55,17.75568182
+images (7).jpg,27,F,1.76,55,17.75568182
+maxresdefault (2).jpg,27,F,1.76,55,17.75568182
+philippiunes.jpg,27,F,1.76,55,17.75568182
+basher-of-pia.jpg,27,F,1.76,55,17.75568182
+t0205rushes2.jpg,27,F,1.76,55,17.75568182
+maxine-reacts-20170130.jpg,27,F,1.76,55,17.75568182
+download (4).jpg,27,F,1.76,55,17.75568182
+"220px-Catriona_Gray_with_iconic_tristar_and_sun_earpiece,_in_Mak_Tumang_Swarovski_gem-embellished__Mayon__evening_numbe.jpg",24,F,1.78,55,17.35891933
+miss-universe-gray-9.jpg,24,F,1.78,55,17.35891933
+2018-12-17T034208Z_301846238_RC134469A900_RTRMADP_3_THAILAND-MISSUNIVERSE.jpg,24,F,1.78,55,17.35891933
+MEGA-Mak-Tumang-Catriona-Gray-Gown.jpg,24,F,1.78,55,17.35891933
+images (8).jpg,24,F,1.78,55,17.35891933
+VP_Leni_Robredo_and_Catriona_Gray-February-26-2019-011.jpg,24,F,1.78,55,17.35891933
+6cf23868d9d2a76a5dedff55264ed45a.jpg,24,F,1.78,55,17.35891933
+download (5).jpg,24,F,1.78,55,17.35891933
+rs_634x1024-181216192115-634-catriona-gray-miss-universe-winner-me-121618-Fox-Getty-e1545116829113.jpg,24,F,1.78,55,17.35891933
+18missU-e1545073341384-620x553.jpg,24,F,1.78,55,17.35891933
+catriona-gray-crown-sash-gown_2018-12-17_12-13-07.jpg,24,F,1.78,55,17.35891933
+MV5BODRkMjZiM2UtN2I5Mi00Mzk4LTg1MTctMjJkMWJjNzYzNTY4XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg,24,F,1.78,55,17.35891933
+Miss Universe 2018 Catriona Gray.jpeg,24,F,1.78,55,17.35891933
+CatrionaElisaGray_Missuniverse_750.jpg,24,F,1.78,55,17.35891933
+Catriona-Gray-Crown2_CNNPH.jpg,24,F,1.78,55,17.35891933
+images (9).jpg,24,F,1.78,55,17.35891933
+images (10).jpg,24,F,1.78,55,17.35891933
+images (11).jpg,24,F,1.78,55,17.35891933
+catriona-gray-homecoming-ayala-february-21-2019-006.jpg,24,F,1.78,55,17.35891933
+catriona-gray.jpg,24,F,1.78,55,17.35891933
+20181217-catgray.jpg,24,F,1.78,55,17.35891933
+catriona-gray-miss-universe-winner_2018-12-19_10-04-54.jpg,24,F,1.78,55,17.35891933
+20181129-Catriona-Gray-Miss-Universe_web-620x488.jpg,24,F,1.78,55,17.35891933
+catriona-gray (1).jpg,24,F,1.78,55,17.35891933
+catriona-gray-song-covers-1545378504.jpg,24,F,1.78,55,17.35891933
+images (12).jpg,24,F,1.78,55,17.35891933
+DYqBroqXUAAQLdP.jpg,24,F,1.78,55,17.35891933
+images (13).jpg,24,F,1.78,55,17.35891933
+Miss_Universe_2015_Pia_Wurtzbach_waves_to_the_Malacanang_Press_(cropped).jpg,26,F,1.73,54,18.04270106
+pia03.jpg,26,F,1.73,54,18.04270106
+pia_wurtzbach-1-300x300.jpg,26,F,1.73,54,18.04270106
+t1223-pia_feat3_1.jpg,26,F,1.73,54,18.04270106
+maxresdefault (3).jpg,26,F,1.73,54,18.04270106
+hqdefault.jpg,26,F,1.73,54,18.04270106
+hqdefault (1).jpg,26,F,1.73,54,18.04270106
+hqdefault (2).jpg,26,F,1.73,54,18.04270106
+piawurtzbachPHfb_80F242E03BED43D2A52565CB999A06D5.jpg,26,F,1.73,54,18.04270106
+Screen-Shot-2017-08-31-at-3.11.17-PM.png,26,F,1.73,54,18.04270106
+Untitled-6-copy9.jpg,26,F,1.73,54,18.04270106
+UQMNL_Desktop_Editorial-01_Pia.jpg,26,F,1.73,54,18.04270106
+images (14).jpg,26,F,1.73,54,18.04270106
+db3b014a4e598953005cc9be16e70c92.jpg,26,F,1.73,54,18.04270106
+Miss-Universe-Pia-Wurtzbach-Presscon-20160124-066.jpg,26,F,1.73,54,18.04270106
+pia1.jpg,26,F,1.73,54,18.04270106
+bigstock-NEW-YORK-FEB-Miss-Universe-118028456-Pia-Wurtzbach.jpg,26,F,1.73,54,18.04270106
+1c834aa2-f071-4657-bd36-5da24e9461d9.jpg,26,F,1.73,54,18.04270106
+Pia+Alonzo+Wurtzbach+2017+Miss+Universe+Pageant+_yFJrE1qG5il.jpg,26,F,1.73,54,18.04270106
+2017+Miss+Universe+Pageant+Arrivals+LHLo1CVxk02x.jpg,26,F,1.73,54,18.04270106
+images (15).jpg,26,F,1.73,54,18.04270106
+640_2_2016_02_07_14_50_24.jpg,26,F,1.73,54,18.04270106
+Pia+Wurtzbach+5th+Annual+NFL+Honors+Arrivals+Gri6VmxEx0Fl.jpg,26,F,1.73,54,18.04270106
+wurtzbach-pia-image.jpg,26,F,1.73,54,18.04270106
+X8lWGl1q.jpg,26,F,1.73,54,18.04270106
+JXeHCbBD.jpg,26,F,1.73,54,18.04270106
+carissa-cielo-medved_pia-wurtzbach-miss-universe-2015_3.jpg,26,F,1.73,54,18.04270106
+1.jpg,22,M,1.78,50,16
+10.jpg,22,M,1.78,50,16
+11.jpg,22,M,1.78,50,16
+2.jpg,22,M,1.78,50,16
+3.jpg,22,M,1.78,50,16
+4.jpeg,22,M,1.78,50,16
+5.jpg,22,M,1.78,50,16
+6.jpg,22,M,1.78,50,16
+7.jpg,22,M,1.78,50,16
+8.jpg,22,M,1.78,50,16
+9.jpg,22,M,1.78,50,16
+Tanush-Pas-1.jpeg,22,M,1.78,50,16
+Tanush-pas-2.jpeg,22,M,1.78,50,16
+Tanush-Pas-3.jpeg,22,M,1.78,50,16
+Tanush-Pas-4.jpeg,22,M,1.78,50,16
+Tanush-Pas-5.jpeg,22,M,1.78,50,16
+Tanush-Pas-6.jpeg,22,M,1.78,50,16
+Tanush-Pas-7.jpeg,22,M,1.78,50,16
+Tanush-pas-best-1.jpeg,22,M,1.78,50,16
+Tanush-Pas-Close-Up-WO-glasses.jpeg,22,M,1.78,50,16
+Tanush-Pas-Close-Up.jpeg,22,M,1.78,50,16
+tanush-pas-ent-1.jpeg,22,M,1.78,50,16
+Tanush-Pas-Far-Off-WO-Glasses.jpeg,22,M,1.78,50,16
+Tanush-Pas-Far-Off.jpeg,22,M,1.78,50,16
+tanush-pas-king-1.jpeg,22,M,1.78,50,16
+Tanush-Pas-Sideways-WO-GLasses-1.jpeg,22,M,1.78,50,16
+WhatsApp Image 2019-03-22 at 11.59.49.jpeg,22,M,1.78,50,16
